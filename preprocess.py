@@ -196,45 +196,45 @@ def preprocess(fn, test=False, strict=True):
     failed_grp = load_pickle('failed_grp.p')
 
 
-    # # Basic feature engineering
-    # logger.info("Adding lat lon")
-    # add_lat_lon(raw_df)
+    # Basic feature engineering
+    logger.info("Adding lat lon")
+    add_lat_lon(raw_df)
 
-    # logger.info("Adding datetime")
-    # proc_datetime(raw_df)
+    logger.info("Adding datetime")
+    proc_datetime(raw_df)
 
-    # logger.info("Adding clusters")
-    # apply_clustering(raw_df, regions_l, regions_s)
+    logger.info("Adding clusters")
+    apply_clustering(raw_df, regions_l, regions_s)
 
-    # logger.info("Adding cluste rmean")
-    # ld, sd = add_cluster_mean(raw_df)
-    # save_pickle(ld, 'ld.p')
-    # save_pickle(sd, 'sd.p')
+    logger.info("Adding cluste rmean")
+    ld, sd = add_cluster_mean(raw_df)
+    save_pickle(ld, 'ld.p')
+    save_pickle(sd, 'sd.p')
 
-    # logger.info("Making dfl and dfs")
-    # dfl = make_cluster_df(ld)
-    # dfs = make_cluster_df(sd)
-    # save_pickle(dfl, 'dfl.p')
-    # save_pickle(dfs, 'dfs.p')
+    logger.info("Making dfl and dfs")
+    dfl = make_cluster_df(ld)
+    dfs = make_cluster_df(sd)
+    save_pickle(dfl, 'dfl.p')
+    save_pickle(dfs, 'dfs.p')
 
-    # logger.info("Create location_cluster mapping")
-    # loc2S, loc2L, S2loc, L2loc = get_loc_cluster_d(raw_df)
-    # save_pickle(loc2S, 'loc2S.p')
-    # save_pickle(loc2L, 'loc2L.p')
-    # save_pickle(S2loc, 'S2loc.p')
-    # save_pickle(L2loc, 'L2loc.p')
+    logger.info("Create location_cluster mapping")
+    loc2S, loc2L, S2loc, L2loc = get_loc_cluster_d(raw_df)
+    save_pickle(loc2S, 'loc2S.p')
+    save_pickle(loc2L, 'loc2L.p')
+    save_pickle(S2loc, 'S2loc.p')
+    save_pickle(L2loc, 'L2loc.p')
 
 
-    # logger.info("Reset indices")
-    # raw_df = raw_df.set_index(raw_df.apply(lambda x: f"{x['geohash6']}-{x['time']}", axis=1))
-    # save_pickle(raw_df, 'raw_df.p')
-    raw_df = load_pickle('raw_df.p', 'resources/temp/')
-    ld = load_pickle('ld.p', 'resources/temp/')
-    sd = load_pickle('sd.p', 'resources/temp/')
-    loc2L = load_pickle('loc2L.p', 'resources/temp/')
-    loc2S = load_pickle('loc2S.p', 'resources/temp/')
-    dfl = load_pickle('dfl.p', 'resources/temp/')
-    dfs = load_pickle('dfs.p', 'resources/temp/')
+    logger.info("Reset indices")
+    raw_df = raw_df.set_index(raw_df.apply(lambda x: f"{x['geohash6']}-{x['time']}", axis=1))
+    save_pickle(raw_df, 'raw_df.p')
+    # raw_df = load_pickle('raw_df.p', 'resources/temp/')
+    # ld = load_pickle('ld.p', 'resources/temp/')
+    # sd = load_pickle('sd.p', 'resources/temp/')
+    # loc2L = load_pickle('loc2L.p', 'resources/temp/')
+    # loc2S = load_pickle('loc2S.p', 'resources/temp/')
+    # dfl = load_pickle('dfl.p', 'resources/temp/')
+    # dfs = load_pickle('dfs.p', 'resources/temp/')
 
     # Select actual set
     if test:

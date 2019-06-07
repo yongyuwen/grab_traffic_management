@@ -1341,3 +1341,547 @@
 2019-06-08 01:26:33,624 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: min
 2019-06-08 01:26:33,665 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: std
 2019-06-08 01:26:33,710 [MainThread  ] [INFO ]  Generating holt
+2019-06-08 01:42:15,545 [MainThread  ] [INFO ]  Loading required files
+2019-06-08 01:42:23,220 [MainThread  ] [INFO ]  Making testset indices
+2019-06-08 01:42:25,861 [MainThread  ] [INFO ]  Length of df = 1301
+2019-06-08 01:42:25,864 [MainThread  ] [INFO ]  Adding demand
+2019-06-08 01:42:25,864 [MainThread  ] [INFO ]  Adding demand for t:-96
+2019-06-08 01:42:25,987 [MainThread  ] [INFO ]  Adding demand for cl:-96
+2019-06-08 01:42:26,006 [MainThread  ] [INFO ]  Adding demand for cs:-96
+2019-06-08 01:42:26,024 [MainThread  ] [INFO ]  Adding demand for t:-95
+2019-06-08 01:42:26,146 [MainThread  ] [INFO ]  Adding demand for cl:-95
+2019-06-08 01:42:26,164 [MainThread  ] [INFO ]  Adding demand for cs:-95
+2019-06-08 01:42:26,184 [MainThread  ] [INFO ]  Adding demand for t:-94
+2019-06-08 01:42:26,301 [MainThread  ] [INFO ]  Adding demand for cl:-94
+2019-06-08 01:42:26,320 [MainThread  ] [INFO ]  Adding demand for cs:-94
+2019-06-08 01:42:26,339 [MainThread  ] [INFO ]  Adding demand for t:-93
+2019-06-08 01:42:26,456 [MainThread  ] [INFO ]  Adding demand for cl:-93
+2019-06-08 01:42:26,476 [MainThread  ] [INFO ]  Adding demand for cs:-93
+2019-06-08 01:42:26,496 [MainThread  ] [INFO ]  Adding demand for t:-92
+2019-06-08 01:42:26,611 [MainThread  ] [INFO ]  Adding demand for cl:-92
+2019-06-08 01:42:26,631 [MainThread  ] [INFO ]  Adding demand for cs:-92
+2019-06-08 01:42:26,649 [MainThread  ] [INFO ]  Adding demand for t:-91
+2019-06-08 01:42:26,761 [MainThread  ] [INFO ]  Adding demand for cl:-91
+2019-06-08 01:42:26,780 [MainThread  ] [INFO ]  Adding demand for cs:-91
+2019-06-08 01:42:26,800 [MainThread  ] [INFO ]  Adding demand for t:-90
+2019-06-08 01:42:26,909 [MainThread  ] [INFO ]  Adding demand for cl:-90
+2019-06-08 01:42:26,929 [MainThread  ] [INFO ]  Adding demand for cs:-90
+2019-06-08 01:42:26,950 [MainThread  ] [INFO ]  Adding demand for t:-89
+2019-06-08 01:42:27,057 [MainThread  ] [INFO ]  Adding demand for cl:-89
+2019-06-08 01:42:27,078 [MainThread  ] [INFO ]  Adding demand for cs:-89
+2019-06-08 01:42:27,098 [MainThread  ] [INFO ]  Adding demand for t:-88
+2019-06-08 01:42:27,204 [MainThread  ] [INFO ]  Adding demand for cl:-88
+2019-06-08 01:42:27,224 [MainThread  ] [INFO ]  Adding demand for cs:-88
+2019-06-08 01:42:27,244 [MainThread  ] [INFO ]  Adding demand for t:-87
+2019-06-08 01:42:27,347 [MainThread  ] [INFO ]  Adding demand for cl:-87
+2019-06-08 01:42:27,368 [MainThread  ] [INFO ]  Adding demand for cs:-87
+2019-06-08 01:42:27,388 [MainThread  ] [INFO ]  Adding demand for t:-86
+2019-06-08 01:42:27,487 [MainThread  ] [INFO ]  Adding demand for cl:-86
+2019-06-08 01:42:27,507 [MainThread  ] [INFO ]  Adding demand for cs:-86
+2019-06-08 01:42:27,526 [MainThread  ] [INFO ]  Adding demand for t:-85
+2019-06-08 01:42:27,625 [MainThread  ] [INFO ]  Adding demand for cl:-85
+2019-06-08 01:42:27,644 [MainThread  ] [INFO ]  Adding demand for cs:-85
+2019-06-08 01:42:27,667 [MainThread  ] [INFO ]  Adding demand for t:-84
+2019-06-08 01:42:27,765 [MainThread  ] [INFO ]  Adding demand for cl:-84
+2019-06-08 01:42:27,786 [MainThread  ] [INFO ]  Adding demand for cs:-84
+2019-06-08 01:42:27,807 [MainThread  ] [INFO ]  Adding demand for t:-83
+2019-06-08 01:42:27,904 [MainThread  ] [INFO ]  Adding demand for cl:-83
+2019-06-08 01:42:27,925 [MainThread  ] [INFO ]  Adding demand for cs:-83
+2019-06-08 01:42:27,946 [MainThread  ] [INFO ]  Adding demand for t:-82
+2019-06-08 01:42:28,044 [MainThread  ] [INFO ]  Adding demand for cl:-82
+2019-06-08 01:42:28,065 [MainThread  ] [INFO ]  Adding demand for cs:-82
+2019-06-08 01:42:28,087 [MainThread  ] [INFO ]  Adding demand for t:-81
+2019-06-08 01:42:28,184 [MainThread  ] [INFO ]  Adding demand for cl:-81
+2019-06-08 01:42:28,204 [MainThread  ] [INFO ]  Adding demand for cs:-81
+2019-06-08 01:42:28,225 [MainThread  ] [INFO ]  Adding demand for t:-80
+2019-06-08 01:42:28,323 [MainThread  ] [INFO ]  Adding demand for cl:-80
+2019-06-08 01:42:28,344 [MainThread  ] [INFO ]  Adding demand for cs:-80
+2019-06-08 01:42:28,367 [MainThread  ] [INFO ]  Adding demand for t:-79
+2019-06-08 01:42:28,467 [MainThread  ] [INFO ]  Adding demand for cl:-79
+2019-06-08 01:42:28,487 [MainThread  ] [INFO ]  Adding demand for cs:-79
+2019-06-08 01:42:28,510 [MainThread  ] [INFO ]  Adding demand for t:-78
+2019-06-08 01:42:28,607 [MainThread  ] [INFO ]  Adding demand for cl:-78
+2019-06-08 01:42:28,627 [MainThread  ] [INFO ]  Adding demand for cs:-78
+2019-06-08 01:42:28,650 [MainThread  ] [INFO ]  Adding demand for t:-77
+2019-06-08 01:42:28,747 [MainThread  ] [INFO ]  Adding demand for cl:-77
+2019-06-08 01:42:28,768 [MainThread  ] [INFO ]  Adding demand for cs:-77
+2019-06-08 01:42:28,791 [MainThread  ] [INFO ]  Adding demand for t:-76
+2019-06-08 01:42:28,891 [MainThread  ] [INFO ]  Adding demand for cl:-76
+2019-06-08 01:42:28,913 [MainThread  ] [INFO ]  Adding demand for cs:-76
+2019-06-08 01:42:28,935 [MainThread  ] [INFO ]  Adding demand for t:-75
+2019-06-08 01:42:29,036 [MainThread  ] [INFO ]  Adding demand for cl:-75
+2019-06-08 01:42:29,058 [MainThread  ] [INFO ]  Adding demand for cs:-75
+2019-06-08 01:42:29,080 [MainThread  ] [INFO ]  Adding demand for t:-74
+2019-06-08 01:42:29,181 [MainThread  ] [INFO ]  Adding demand for cl:-74
+2019-06-08 01:42:29,203 [MainThread  ] [INFO ]  Adding demand for cs:-74
+2019-06-08 01:42:29,226 [MainThread  ] [INFO ]  Adding demand for t:-73
+2019-06-08 01:42:29,327 [MainThread  ] [INFO ]  Adding demand for cl:-73
+2019-06-08 01:42:29,349 [MainThread  ] [INFO ]  Adding demand for cs:-73
+2019-06-08 01:42:29,371 [MainThread  ] [INFO ]  Adding demand for t:-72
+2019-06-08 01:42:29,476 [MainThread  ] [INFO ]  Adding demand for cl:-72
+2019-06-08 01:42:29,498 [MainThread  ] [INFO ]  Adding demand for cs:-72
+2019-06-08 01:42:29,524 [MainThread  ] [INFO ]  Adding demand for t:-71
+2019-06-08 01:42:29,629 [MainThread  ] [INFO ]  Adding demand for cl:-71
+2019-06-08 01:42:29,654 [MainThread  ] [INFO ]  Adding demand for cs:-71
+2019-06-08 01:42:29,677 [MainThread  ] [INFO ]  Adding demand for t:-70
+2019-06-08 01:42:29,785 [MainThread  ] [INFO ]  Adding demand for cl:-70
+2019-06-08 01:42:29,808 [MainThread  ] [INFO ]  Adding demand for cs:-70
+2019-06-08 01:42:29,833 [MainThread  ] [INFO ]  Adding demand for t:-69
+2019-06-08 01:42:29,943 [MainThread  ] [INFO ]  Adding demand for cl:-69
+2019-06-08 01:42:29,965 [MainThread  ] [INFO ]  Adding demand for cs:-69
+2019-06-08 01:42:29,988 [MainThread  ] [INFO ]  Adding demand for t:-68
+2019-06-08 01:42:30,097 [MainThread  ] [INFO ]  Adding demand for cl:-68
+2019-06-08 01:42:30,120 [MainThread  ] [INFO ]  Adding demand for cs:-68
+2019-06-08 01:42:30,143 [MainThread  ] [INFO ]  Adding demand for t:-67
+2019-06-08 01:42:30,252 [MainThread  ] [INFO ]  Adding demand for cl:-67
+2019-06-08 01:42:30,276 [MainThread  ] [INFO ]  Adding demand for cs:-67
+2019-06-08 01:42:30,299 [MainThread  ] [INFO ]  Adding demand for t:-66
+2019-06-08 01:42:30,410 [MainThread  ] [INFO ]  Adding demand for cl:-66
+2019-06-08 01:42:30,436 [MainThread  ] [INFO ]  Adding demand for cs:-66
+2019-06-08 01:42:30,460 [MainThread  ] [INFO ]  Adding demand for t:-65
+2019-06-08 01:42:30,577 [MainThread  ] [INFO ]  Adding demand for cl:-65
+2019-06-08 01:42:30,600 [MainThread  ] [INFO ]  Adding demand for cs:-65
+2019-06-08 01:42:30,623 [MainThread  ] [INFO ]  Adding demand for t:-64
+2019-06-08 01:42:30,742 [MainThread  ] [INFO ]  Adding demand for cl:-64
+2019-06-08 01:42:30,766 [MainThread  ] [INFO ]  Adding demand for cs:-64
+2019-06-08 01:42:30,792 [MainThread  ] [INFO ]  Adding demand for t:-63
+2019-06-08 01:42:30,910 [MainThread  ] [INFO ]  Adding demand for cl:-63
+2019-06-08 01:42:30,935 [MainThread  ] [INFO ]  Adding demand for cs:-63
+2019-06-08 01:42:30,960 [MainThread  ] [INFO ]  Adding demand for t:-62
+2019-06-08 01:42:31,083 [MainThread  ] [INFO ]  Adding demand for cl:-62
+2019-06-08 01:42:31,108 [MainThread  ] [INFO ]  Adding demand for cs:-62
+2019-06-08 01:42:31,134 [MainThread  ] [INFO ]  Adding demand for t:-61
+2019-06-08 01:42:31,253 [MainThread  ] [INFO ]  Adding demand for cl:-61
+2019-06-08 01:42:31,279 [MainThread  ] [INFO ]  Adding demand for cs:-61
+2019-06-08 01:42:31,305 [MainThread  ] [INFO ]  Adding demand for t:-60
+2019-06-08 01:42:31,431 [MainThread  ] [INFO ]  Adding demand for cl:-60
+2019-06-08 01:42:31,457 [MainThread  ] [INFO ]  Adding demand for cs:-60
+2019-06-08 01:42:31,483 [MainThread  ] [INFO ]  Adding demand for t:-59
+2019-06-08 01:42:31,610 [MainThread  ] [INFO ]  Adding demand for cl:-59
+2019-06-08 01:42:31,635 [MainThread  ] [INFO ]  Adding demand for cs:-59
+2019-06-08 01:42:31,662 [MainThread  ] [INFO ]  Adding demand for t:-58
+2019-06-08 01:42:31,791 [MainThread  ] [INFO ]  Adding demand for cl:-58
+2019-06-08 01:42:31,818 [MainThread  ] [INFO ]  Adding demand for cs:-58
+2019-06-08 01:42:31,844 [MainThread  ] [INFO ]  Adding demand for t:-57
+2019-06-08 01:42:31,987 [MainThread  ] [INFO ]  Adding demand for cl:-57
+2019-06-08 01:42:32,013 [MainThread  ] [INFO ]  Adding demand for cs:-57
+2019-06-08 01:42:32,040 [MainThread  ] [INFO ]  Adding demand for t:-56
+2019-06-08 01:42:32,170 [MainThread  ] [INFO ]  Adding demand for cl:-56
+2019-06-08 01:42:32,198 [MainThread  ] [INFO ]  Adding demand for cs:-56
+2019-06-08 01:42:32,226 [MainThread  ] [INFO ]  Adding demand for t:-55
+2019-06-08 01:42:32,359 [MainThread  ] [INFO ]  Adding demand for cl:-55
+2019-06-08 01:42:32,386 [MainThread  ] [INFO ]  Adding demand for cs:-55
+2019-06-08 01:42:32,414 [MainThread  ] [INFO ]  Adding demand for t:-54
+2019-06-08 01:42:32,549 [MainThread  ] [INFO ]  Adding demand for cl:-54
+2019-06-08 01:42:32,575 [MainThread  ] [INFO ]  Adding demand for cs:-54
+2019-06-08 01:42:32,601 [MainThread  ] [INFO ]  Adding demand for t:-53
+2019-06-08 01:42:32,738 [MainThread  ] [INFO ]  Adding demand for cl:-53
+2019-06-08 01:42:32,765 [MainThread  ] [INFO ]  Adding demand for cs:-53
+2019-06-08 01:42:32,792 [MainThread  ] [INFO ]  Adding demand for t:-52
+2019-06-08 01:42:32,931 [MainThread  ] [INFO ]  Adding demand for cl:-52
+2019-06-08 01:42:32,959 [MainThread  ] [INFO ]  Adding demand for cs:-52
+2019-06-08 01:42:32,988 [MainThread  ] [INFO ]  Adding demand for t:-51
+2019-06-08 01:42:33,126 [MainThread  ] [INFO ]  Adding demand for cl:-51
+2019-06-08 01:42:33,156 [MainThread  ] [INFO ]  Adding demand for cs:-51
+2019-06-08 01:42:33,185 [MainThread  ] [INFO ]  Adding demand for t:-50
+2019-06-08 01:42:33,328 [MainThread  ] [INFO ]  Adding demand for cl:-50
+2019-06-08 01:42:33,358 [MainThread  ] [INFO ]  Adding demand for cs:-50
+2019-06-08 01:42:33,387 [MainThread  ] [INFO ]  Adding demand for t:-49
+2019-06-08 01:42:33,532 [MainThread  ] [INFO ]  Adding demand for cl:-49
+2019-06-08 01:42:33,560 [MainThread  ] [INFO ]  Adding demand for cs:-49
+2019-06-08 01:42:33,588 [MainThread  ] [INFO ]  Adding demand for t:-48
+2019-06-08 01:42:33,729 [MainThread  ] [INFO ]  Adding demand for cl:-48
+2019-06-08 01:42:33,757 [MainThread  ] [INFO ]  Adding demand for cs:-48
+2019-06-08 01:42:33,786 [MainThread  ] [INFO ]  Adding demand for t:-47
+2019-06-08 01:42:33,932 [MainThread  ] [INFO ]  Adding demand for cl:-47
+2019-06-08 01:42:33,960 [MainThread  ] [INFO ]  Adding demand for cs:-47
+2019-06-08 01:42:33,988 [MainThread  ] [INFO ]  Adding demand for t:-46
+2019-06-08 01:42:34,133 [MainThread  ] [INFO ]  Adding demand for cl:-46
+2019-06-08 01:42:34,161 [MainThread  ] [INFO ]  Adding demand for cs:-46
+2019-06-08 01:42:34,190 [MainThread  ] [INFO ]  Adding demand for t:-45
+2019-06-08 01:42:34,341 [MainThread  ] [INFO ]  Adding demand for cl:-45
+2019-06-08 01:42:34,369 [MainThread  ] [INFO ]  Adding demand for cs:-45
+2019-06-08 01:42:34,399 [MainThread  ] [INFO ]  Adding demand for t:-44
+2019-06-08 01:42:34,550 [MainThread  ] [INFO ]  Adding demand for cl:-44
+2019-06-08 01:42:34,580 [MainThread  ] [INFO ]  Adding demand for cs:-44
+2019-06-08 01:42:34,610 [MainThread  ] [INFO ]  Adding demand for t:-43
+2019-06-08 01:42:34,760 [MainThread  ] [INFO ]  Adding demand for cl:-43
+2019-06-08 01:42:34,790 [MainThread  ] [INFO ]  Adding demand for cs:-43
+2019-06-08 01:42:34,820 [MainThread  ] [INFO ]  Adding demand for t:-42
+2019-06-08 01:42:34,969 [MainThread  ] [INFO ]  Adding demand for cl:-42
+2019-06-08 01:42:34,998 [MainThread  ] [INFO ]  Adding demand for cs:-42
+2019-06-08 01:42:35,027 [MainThread  ] [INFO ]  Adding demand for t:-41
+2019-06-08 01:42:35,179 [MainThread  ] [INFO ]  Adding demand for cl:-41
+2019-06-08 01:42:35,209 [MainThread  ] [INFO ]  Adding demand for cs:-41
+2019-06-08 01:42:35,240 [MainThread  ] [INFO ]  Adding demand for t:-40
+2019-06-08 01:42:35,394 [MainThread  ] [INFO ]  Adding demand for cl:-40
+2019-06-08 01:42:35,430 [MainThread  ] [INFO ]  Adding demand for cs:-40
+2019-06-08 01:42:35,460 [MainThread  ] [INFO ]  Adding demand for t:-39
+2019-06-08 01:42:35,625 [MainThread  ] [INFO ]  Adding demand for cl:-39
+2019-06-08 01:42:35,654 [MainThread  ] [INFO ]  Adding demand for cs:-39
+2019-06-08 01:42:35,687 [MainThread  ] [INFO ]  Adding demand for t:-38
+2019-06-08 01:42:35,841 [MainThread  ] [INFO ]  Adding demand for cl:-38
+2019-06-08 01:42:35,873 [MainThread  ] [INFO ]  Adding demand for cs:-38
+2019-06-08 01:42:35,903 [MainThread  ] [INFO ]  Adding demand for t:-37
+2019-06-08 01:42:36,062 [MainThread  ] [INFO ]  Adding demand for cl:-37
+2019-06-08 01:42:36,092 [MainThread  ] [INFO ]  Adding demand for cs:-37
+2019-06-08 01:42:36,124 [MainThread  ] [INFO ]  Adding demand for t:-36
+2019-06-08 01:42:36,284 [MainThread  ] [INFO ]  Adding demand for cl:-36
+2019-06-08 01:42:36,315 [MainThread  ] [INFO ]  Adding demand for cs:-36
+2019-06-08 01:42:36,347 [MainThread  ] [INFO ]  Adding demand for t:-35
+2019-06-08 01:42:36,508 [MainThread  ] [INFO ]  Adding demand for cl:-35
+2019-06-08 01:42:36,539 [MainThread  ] [INFO ]  Adding demand for cs:-35
+2019-06-08 01:42:36,570 [MainThread  ] [INFO ]  Adding demand for t:-34
+2019-06-08 01:42:36,725 [MainThread  ] [INFO ]  Adding demand for cl:-34
+2019-06-08 01:42:36,758 [MainThread  ] [INFO ]  Adding demand for cs:-34
+2019-06-08 01:42:36,789 [MainThread  ] [INFO ]  Adding demand for t:-33
+2019-06-08 01:42:36,949 [MainThread  ] [INFO ]  Adding demand for cl:-33
+2019-06-08 01:42:36,980 [MainThread  ] [INFO ]  Adding demand for cs:-33
+2019-06-08 01:42:37,011 [MainThread  ] [INFO ]  Adding demand for t:-32
+2019-06-08 01:42:37,195 [MainThread  ] [INFO ]  Adding demand for cl:-32
+2019-06-08 01:42:37,229 [MainThread  ] [INFO ]  Adding demand for cs:-32
+2019-06-08 01:42:37,265 [MainThread  ] [INFO ]  Adding demand for t:-31
+2019-06-08 01:42:37,441 [MainThread  ] [INFO ]  Adding demand for cl:-31
+2019-06-08 01:42:37,475 [MainThread  ] [INFO ]  Adding demand for cs:-31
+2019-06-08 01:42:37,509 [MainThread  ] [INFO ]  Adding demand for t:-30
+2019-06-08 01:42:37,734 [MainThread  ] [INFO ]  Adding demand for cl:-30
+2019-06-08 01:42:37,774 [MainThread  ] [INFO ]  Adding demand for cs:-30
+2019-06-08 01:42:37,827 [MainThread  ] [INFO ]  Adding demand for t:-29
+2019-06-08 01:42:38,050 [MainThread  ] [INFO ]  Adding demand for cl:-29
+2019-06-08 01:42:38,084 [MainThread  ] [INFO ]  Adding demand for cs:-29
+2019-06-08 01:42:38,124 [MainThread  ] [INFO ]  Adding demand for t:-28
+2019-06-08 01:42:38,329 [MainThread  ] [INFO ]  Adding demand for cl:-28
+2019-06-08 01:42:38,364 [MainThread  ] [INFO ]  Adding demand for cs:-28
+2019-06-08 01:42:38,400 [MainThread  ] [INFO ]  Adding demand for t:-27
+2019-06-08 01:42:38,584 [MainThread  ] [INFO ]  Adding demand for cl:-27
+2019-06-08 01:42:38,627 [MainThread  ] [INFO ]  Adding demand for cs:-27
+2019-06-08 01:42:38,665 [MainThread  ] [INFO ]  Adding demand for t:-26
+2019-06-08 01:42:38,838 [MainThread  ] [INFO ]  Adding demand for cl:-26
+2019-06-08 01:42:38,876 [MainThread  ] [INFO ]  Adding demand for cs:-26
+2019-06-08 01:42:38,913 [MainThread  ] [INFO ]  Adding demand for t:-25
+2019-06-08 01:42:39,103 [MainThread  ] [INFO ]  Adding demand for cl:-25
+2019-06-08 01:42:39,143 [MainThread  ] [INFO ]  Adding demand for cs:-25
+2019-06-08 01:42:39,187 [MainThread  ] [INFO ]  Adding demand for t:-24
+2019-06-08 01:42:39,368 [MainThread  ] [INFO ]  Adding demand for cl:-24
+2019-06-08 01:42:39,404 [MainThread  ] [INFO ]  Adding demand for cs:-24
+2019-06-08 01:42:39,441 [MainThread  ] [INFO ]  Adding demand for t:-23
+2019-06-08 01:42:39,639 [MainThread  ] [INFO ]  Adding demand for cl:-23
+2019-06-08 01:42:39,677 [MainThread  ] [INFO ]  Adding demand for cs:-23
+2019-06-08 01:42:39,720 [MainThread  ] [INFO ]  Adding demand for t:-22
+2019-06-08 01:42:39,924 [MainThread  ] [INFO ]  Adding demand for cl:-22
+2019-06-08 01:42:39,977 [MainThread  ] [INFO ]  Adding demand for cs:-22
+2019-06-08 01:42:40,018 [MainThread  ] [INFO ]  Adding demand for t:-21
+2019-06-08 01:42:40,223 [MainThread  ] [INFO ]  Adding demand for cl:-21
+2019-06-08 01:42:40,265 [MainThread  ] [INFO ]  Adding demand for cs:-21
+2019-06-08 01:42:40,301 [MainThread  ] [INFO ]  Adding demand for t:-20
+2019-06-08 01:42:40,478 [MainThread  ] [INFO ]  Adding demand for cl:-20
+2019-06-08 01:42:40,516 [MainThread  ] [INFO ]  Adding demand for cs:-20
+2019-06-08 01:42:40,555 [MainThread  ] [INFO ]  Adding demand for t:-19
+2019-06-08 01:42:40,731 [MainThread  ] [INFO ]  Adding demand for cl:-19
+2019-06-08 01:42:40,766 [MainThread  ] [INFO ]  Adding demand for cs:-19
+2019-06-08 01:42:40,811 [MainThread  ] [INFO ]  Adding demand for t:-18
+2019-06-08 01:42:41,014 [MainThread  ] [INFO ]  Adding demand for cl:-18
+2019-06-08 01:42:41,060 [MainThread  ] [INFO ]  Adding demand for cs:-18
+2019-06-08 01:42:41,101 [MainThread  ] [INFO ]  Adding demand for t:-17
+2019-06-08 01:42:41,291 [MainThread  ] [INFO ]  Adding demand for cl:-17
+2019-06-08 01:42:41,333 [MainThread  ] [INFO ]  Adding demand for cs:-17
+2019-06-08 01:42:41,369 [MainThread  ] [INFO ]  Adding demand for t:-16
+2019-06-08 01:42:41,557 [MainThread  ] [INFO ]  Adding demand for cl:-16
+2019-06-08 01:42:41,602 [MainThread  ] [INFO ]  Adding demand for cs:-16
+2019-06-08 01:42:41,642 [MainThread  ] [INFO ]  Adding demand for t:-15
+2019-06-08 01:42:41,827 [MainThread  ] [INFO ]  Adding demand for cl:-15
+2019-06-08 01:42:41,868 [MainThread  ] [INFO ]  Adding demand for cs:-15
+2019-06-08 01:42:41,904 [MainThread  ] [INFO ]  Adding demand for t:-14
+2019-06-08 01:42:42,065 [MainThread  ] [INFO ]  Adding demand for cl:-14
+2019-06-08 01:42:42,108 [MainThread  ] [INFO ]  Adding demand for cs:-14
+2019-06-08 01:42:42,166 [MainThread  ] [INFO ]  Adding demand for t:-13
+2019-06-08 01:42:42,408 [MainThread  ] [INFO ]  Adding demand for cl:-13
+2019-06-08 01:42:42,446 [MainThread  ] [INFO ]  Adding demand for cs:-13
+2019-06-08 01:42:42,485 [MainThread  ] [INFO ]  Adding demand for t:-12
+2019-06-08 01:42:42,673 [MainThread  ] [INFO ]  Adding demand for cl:-12
+2019-06-08 01:42:42,720 [MainThread  ] [INFO ]  Adding demand for cs:-12
+2019-06-08 01:42:42,760 [MainThread  ] [INFO ]  Adding demand for t:-11
+2019-06-08 01:42:42,924 [MainThread  ] [INFO ]  Adding demand for cl:-11
+2019-06-08 01:42:42,964 [MainThread  ] [INFO ]  Adding demand for cs:-11
+2019-06-08 01:42:43,010 [MainThread  ] [INFO ]  Adding demand for t:-10
+2019-06-08 01:42:43,188 [MainThread  ] [INFO ]  Adding demand for cl:-10
+2019-06-08 01:42:43,229 [MainThread  ] [INFO ]  Adding demand for cs:-10
+2019-06-08 01:42:43,267 [MainThread  ] [INFO ]  Adding demand for t:-9
+2019-06-08 01:42:43,426 [MainThread  ] [INFO ]  Adding demand for cl:-9
+2019-06-08 01:42:43,468 [MainThread  ] [INFO ]  Adding demand for cs:-9
+2019-06-08 01:42:43,511 [MainThread  ] [INFO ]  Adding demand for t:-8
+2019-06-08 01:42:43,675 [MainThread  ] [INFO ]  Adding demand for cl:-8
+2019-06-08 01:42:43,714 [MainThread  ] [INFO ]  Adding demand for cs:-8
+2019-06-08 01:42:43,757 [MainThread  ] [INFO ]  Adding demand for t:-7
+2019-06-08 01:42:43,921 [MainThread  ] [INFO ]  Adding demand for cl:-7
+2019-06-08 01:42:43,961 [MainThread  ] [INFO ]  Adding demand for cs:-7
+2019-06-08 01:42:44,011 [MainThread  ] [INFO ]  Adding demand for t:-6
+2019-06-08 01:42:44,205 [MainThread  ] [INFO ]  Adding demand for cl:-6
+2019-06-08 01:42:44,255 [MainThread  ] [INFO ]  Adding demand for cs:-6
+2019-06-08 01:42:44,301 [MainThread  ] [INFO ]  Adding demand for t:-5
+2019-06-08 01:42:44,468 [MainThread  ] [INFO ]  Adding demand for cl:-5
+2019-06-08 01:42:44,511 [MainThread  ] [INFO ]  Adding demand for cs:-5
+2019-06-08 01:42:44,554 [MainThread  ] [INFO ]  Adding demand for t:-4
+2019-06-08 01:42:44,717 [MainThread  ] [INFO ]  Adding demand for cl:-4
+2019-06-08 01:42:44,760 [MainThread  ] [INFO ]  Adding demand for cs:-4
+2019-06-08 01:42:44,799 [MainThread  ] [INFO ]  Adding demand for t:-3
+2019-06-08 01:42:44,951 [MainThread  ] [INFO ]  Adding demand for cl:-3
+2019-06-08 01:42:44,991 [MainThread  ] [INFO ]  Adding demand for cs:-3
+2019-06-08 01:42:45,033 [MainThread  ] [INFO ]  Adding demand for t:-2
+2019-06-08 01:42:45,198 [MainThread  ] [INFO ]  Adding demand for cl:-2
+2019-06-08 01:42:45,246 [MainThread  ] [INFO ]  Adding demand for cs:-2
+2019-06-08 01:42:45,287 [MainThread  ] [INFO ]  Adding demand for t:-1
+2019-06-08 01:42:45,472 [MainThread  ] [INFO ]  Adding demand for cl:-1
+2019-06-08 01:42:45,512 [MainThread  ] [INFO ]  Adding demand for cs:-1
+2019-06-08 01:42:45,552 [MainThread  ] [INFO ]  Adding demand for t:0
+2019-06-08 01:42:45,799 [MainThread  ] [INFO ]  Adding demand for cl:0
+2019-06-08 01:42:45,849 [MainThread  ] [INFO ]  Adding demand for cs:0
+2019-06-08 01:42:45,904 [MainThread  ] [INFO ]  Adding statistics
+2019-06-08 01:42:45,904 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: mean
+2019-06-08 01:42:45,958 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: median
+2019-06-08 01:42:46,040 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: max
+2019-06-08 01:42:46,092 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: min
+2019-06-08 01:42:46,139 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: std
+2019-06-08 01:42:46,192 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: mean
+2019-06-08 01:42:47,982 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: median
+2019-06-08 01:42:49,920 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: max
+2019-06-08 01:42:51,743 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: min
+2019-06-08 01:42:53,566 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: std
+2019-06-08 01:42:55,414 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: mean
+2019-06-08 01:42:55,454 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: median
+2019-06-08 01:42:55,493 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: max
+2019-06-08 01:42:55,531 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: min
+2019-06-08 01:42:55,570 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: std
+2019-06-08 01:42:55,608 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: mean
+2019-06-08 01:42:55,646 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: median
+2019-06-08 01:42:55,684 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: max
+2019-06-08 01:42:55,729 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: min
+2019-06-08 01:42:55,768 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: std
+2019-06-08 01:42:55,809 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: mean
+2019-06-08 01:42:56,272 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: median
+2019-06-08 01:42:56,863 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: max
+2019-06-08 01:42:57,343 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: min
+2019-06-08 01:42:57,821 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: std
+2019-06-08 01:42:58,314 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: mean
+2019-06-08 01:42:58,365 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: median
+2019-06-08 01:42:58,411 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: max
+2019-06-08 01:42:58,452 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: min
+2019-06-08 01:42:58,491 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: std
+2019-06-08 01:42:58,533 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: mean
+2019-06-08 01:42:58,577 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: median
+2019-06-08 01:42:58,617 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: max
+2019-06-08 01:42:58,657 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: min
+2019-06-08 01:42:58,696 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: std
+2019-06-08 01:42:58,736 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: mean
+2019-06-08 01:42:59,303 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: median
+2019-06-08 01:42:59,999 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: max
+2019-06-08 01:43:00,562 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: min
+2019-06-08 01:43:01,122 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: std
+2019-06-08 01:43:01,729 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: mean
+2019-06-08 01:43:01,780 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: median
+2019-06-08 01:43:01,821 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: max
+2019-06-08 01:43:01,873 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: min
+2019-06-08 01:43:01,915 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: std
+2019-06-08 01:43:01,971 [MainThread  ] [INFO ]  Generating holt
+2019-06-08 01:48:20,085 [MainThread  ] [WARNI]  Group qp09te not found
+2019-06-08 01:48:48,521 [MainThread  ] [WARNI]  Group qp09h3 not found
+2019-06-08 01:48:57,270 [MainThread  ] [WARNI]  Group qp09v5 not found
+2019-06-08 01:48:59,244 [MainThread  ] [WARNI]  Group qp09wn not found
+2019-06-08 01:49:06,285 [MainThread  ] [WARNI]  Group qp091h not found
+2019-06-08 01:49:06,285 [MainThread  ] [WARNI]  Group qp09tg not found
+2019-06-08 01:49:09,439 [MainThread  ] [WARNI]  Group qp09m6 not found
+2019-06-08 01:49:15,434 [MainThread  ] [WARNI]  Group qp06nw not found
+2019-06-08 01:49:16,045 [MainThread  ] [WARNI]  Group qp09t7 not found
+2019-06-08 01:49:16,046 [MainThread  ] [WARNI]  Group qp09eg not found
+2019-06-08 01:49:17,679 [MainThread  ] [WARNI]  Group qp09mv not found
+2019-06-08 01:49:18,635 [MainThread  ] [WARNI]  Group qp08g5 not found
+2019-06-08 01:49:18,637 [MainThread  ] [WARNI]  Group qp02yu not found
+2019-06-08 01:49:18,924 [MainThread  ] [WARNI]  Group qp0d5k not found
+2019-06-08 01:49:19,453 [MainThread  ] [WARNI]  Group qp09m7 not found
+2019-06-08 01:49:19,725 [MainThread  ] [WARNI]  Group qp09n5 not found
+2019-06-08 01:49:19,726 [MainThread  ] [WARNI]  Group qp09w1 not found
+2019-06-08 01:49:19,726 [MainThread  ] [WARNI]  Group qp09nj not found
+2019-06-08 01:49:19,727 [MainThread  ] [WARNI]  Group qp09dz not found
+2019-06-08 01:49:20,064 [MainThread  ] [WARNI]  Group qp08fs not found
+2019-06-08 01:49:20,066 [MainThread  ] [WARNI]  Group qp0919 not found
+2019-06-08 01:49:20,067 [MainThread  ] [WARNI]  Group qp091j not found
+2019-06-08 01:49:20,068 [MainThread  ] [WARNI]  Group qp09s5 not found
+2019-06-08 01:49:20,069 [MainThread  ] [WARNI]  Group qp092b not found
+2019-06-08 01:49:20,070 [MainThread  ] [WARNI]  Group qp0d4m not found
+2019-06-08 01:49:20,071 [MainThread  ] [WARNI]  Group qp03yn not found
+2019-06-08 01:49:20,071 [MainThread  ] [WARNI]  Group qp09v9 not found
+2019-06-08 01:49:20,072 [MainThread  ] [WARNI]  Group qp0d45 not found
+2019-06-08 01:49:20,080 [MainThread  ] [INFO ]  Generating cluster holt
+2019-06-08 01:50:27,466 [MainThread  ] [INFO ]  Appending holt
+2019-06-08 01:50:27,467 [MainThread  ] [INFO ]  Doing time interval -5
+2019-06-08 01:50:27,487 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:27,497 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:27,502 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:27,504 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:27,507 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:27,507 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:27,508 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:27,511 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:27,513 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:27,554 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:27,600 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:27,610 [MainThread  ] [INFO ]  Doing time interval -4
+2019-06-08 01:50:27,627 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:27,634 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:27,639 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:27,641 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:27,644 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:27,644 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:27,646 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:27,648 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:27,650 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:27,702 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:27,753 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:27,763 [MainThread  ] [INFO ]  Doing time interval -3
+2019-06-08 01:50:27,780 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:27,789 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:27,793 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:27,794 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:27,797 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:27,797 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:27,798 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:27,801 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:27,803 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:27,841 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:27,883 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:27,897 [MainThread  ] [INFO ]  Doing time interval -2
+2019-06-08 01:50:27,917 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:27,928 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:27,932 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:27,934 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:27,936 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:27,937 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:27,938 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:27,940 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:27,943 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:27,983 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,028 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,041 [MainThread  ] [INFO ]  Doing time interval -1
+2019-06-08 01:50:28,059 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:28,067 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:28,072 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:28,073 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:28,076 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:28,077 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:28,077 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,080 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:28,083 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:28,130 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,176 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,189 [MainThread  ] [INFO ]  Doing time interval 0
+2019-06-08 01:50:28,210 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:28,218 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:28,222 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:28,223 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:28,225 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:28,226 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:28,227 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,229 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:28,232 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:28,272 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,317 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,330 [MainThread  ] [INFO ]  Doing time interval 1
+2019-06-08 01:50:28,349 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:28,359 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:28,363 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:28,365 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:28,368 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:28,368 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:28,369 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,372 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:28,374 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:28,420 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,471 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,482 [MainThread  ] [INFO ]  Doing time interval 2
+2019-06-08 01:50:28,504 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:28,514 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:28,519 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:28,520 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:28,523 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:28,524 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:28,525 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,528 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:28,530 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:28,577 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,621 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,635 [MainThread  ] [INFO ]  Doing time interval 3
+2019-06-08 01:50:28,657 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:28,667 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:28,672 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:28,673 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:28,676 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:28,677 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:28,678 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,680 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:28,683 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:28,725 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,774 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,788 [MainThread  ] [INFO ]  Doing time interval 4
+2019-06-08 01:50:28,810 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:28,817 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:28,822 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:28,823 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:28,826 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:28,827 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:28,828 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,831 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:28,833 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:28,884 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,931 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,943 [MainThread  ] [INFO ]  Doing time interval 5
+2019-06-08 01:50:28,966 [MainThread  ] [WARNI]  Cannot find predictions for qp02yv at time 33420
+2019-06-08 01:50:28,974 [MainThread  ] [WARNI]  Cannot find predictions for qp0939 at time 41730
+2019-06-08 01:50:28,978 [MainThread  ] [WARNI]  Cannot find predictions for qp09by at time 46515
+2019-06-08 01:50:28,980 [MainThread  ] [WARNI]  Cannot find predictions for qp09dy at time 75735
+2019-06-08 01:50:28,983 [MainThread  ] [WARNI]  Cannot find predictions for qp09jy at time 65175
+2019-06-08 01:50:28,983 [MainThread  ] [WARNI]  Cannot find predictions for qp09kg at time 4875
+2019-06-08 01:50:28,984 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:28,987 [MainThread  ] [WARNI]  Cannot find predictions for qp09w4 at time 3390
+2019-06-08 01:50:28,989 [MainThread  ] [WARNI]  Cannot find predictions for qp0d5s at time 63735
+2019-06-08 01:50:29,039 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:29,094 [MainThread  ] [WARNI]  Cannot find predictions for qp09s0 at time 225
+2019-06-08 01:50:29,403 [MainThread  ] [INFO ]  Predicting Catboost model t1_0
+2019-06-08 01:50:29,479 [MainThread  ] [INFO ]  Predicting Catboost model t1_1
+2019-06-08 01:50:29,580 [MainThread  ] [INFO ]  Predicting Catboost model t1_2
+2019-06-08 01:50:29,660 [MainThread  ] [INFO ]  Predicting Catboost model t1_3
+2019-06-08 01:50:29,740 [MainThread  ] [INFO ]  Predicting Catboost model t1_4
+2019-06-08 01:50:29,827 [MainThread  ] [INFO ]  Predicting Catboost model t2_0
+2019-06-08 01:50:29,913 [MainThread  ] [INFO ]  Predicting Catboost model t2_1
+2019-06-08 01:50:29,986 [MainThread  ] [INFO ]  Predicting Catboost model t2_2
+2019-06-08 01:50:30,063 [MainThread  ] [INFO ]  Predicting Catboost model t2_3
+2019-06-08 01:50:30,137 [MainThread  ] [INFO ]  Predicting Catboost model t2_4
+2019-06-08 01:50:30,243 [MainThread  ] [INFO ]  Predicting Catboost model t3_0
+2019-06-08 01:50:30,319 [MainThread  ] [INFO ]  Predicting Catboost model t3_1
+2019-06-08 01:50:30,398 [MainThread  ] [INFO ]  Predicting Catboost model t3_2
+2019-06-08 01:50:30,525 [MainThread  ] [INFO ]  Predicting Catboost model t3_3
+2019-06-08 01:50:30,612 [MainThread  ] [INFO ]  Predicting Catboost model t3_4
+2019-06-08 01:50:30,685 [MainThread  ] [INFO ]  Predicting Catboost model t4_0
+2019-06-08 01:50:30,796 [MainThread  ] [INFO ]  Predicting Catboost model t4_1
+2019-06-08 01:50:30,881 [MainThread  ] [INFO ]  Predicting Catboost model t4_2
+2019-06-08 01:50:30,960 [MainThread  ] [INFO ]  Predicting Catboost model t4_3
+2019-06-08 01:50:31,083 [MainThread  ] [INFO ]  Predicting Catboost model t4_4
+2019-06-08 01:50:31,254 [MainThread  ] [INFO ]  Predicting Catboost model t5_0
+2019-06-08 01:50:31,381 [MainThread  ] [INFO ]  Predicting Catboost model t5_1
+2019-06-08 01:50:31,469 [MainThread  ] [INFO ]  Predicting Catboost model t5_2
+2019-06-08 01:50:31,560 [MainThread  ] [INFO ]  Predicting Catboost model t5_3
+2019-06-08 01:50:31,633 [MainThread  ] [INFO ]  Predicting Catboost model t5_4
+2019-06-08 01:50:31,710 [MainThread  ] [INFO ]  Predicting DL models
+2019-06-08 01:50:31,710 [MainThread  ] [INFO ]  Predicting Catboost model t1_final_model_v3
+2019-06-08 01:58:00,883 [MainThread  ] [INFO ]  Predicting DL models
+2019-06-08 01:58:00,883 [MainThread  ] [INFO ]  Predicting Catboost model t1_final_model_v3
+2019-06-08 01:59:14,920 [MainThread  ] [INFO ]  Predicting Catboost model t2_final_model_v3
+2019-06-08 02:00:14,015 [MainThread  ] [INFO ]  Predicting Catboost model t3_final_model_v3
+2019-06-08 02:01:13,533 [MainThread  ] [INFO ]  Predicting Catboost model t4_final_model_v3
+2019-06-08 02:02:12,522 [MainThread  ] [INFO ]  Predicting Catboost model t5_final_model_v3
+2019-06-08 02:03:10,455 [MainThread  ] [INFO ]  Predicting Catboost model t1_final_model_v4
+2019-06-08 02:04:10,118 [MainThread  ] [INFO ]  Predicting Catboost model t2_final_model_v4
+2019-06-08 02:05:09,061 [MainThread  ] [INFO ]  Predicting Catboost model t3_final_model_v4
+2019-06-08 02:06:07,822 [MainThread  ] [INFO ]  Predicting Catboost model t4_final_model_v4
+2019-06-08 02:07:07,552 [MainThread  ] [INFO ]  Predicting Catboost model t5_final_model_v4
+2019-06-08 02:10:04,246 [MainThread  ] [INFO ]  Loading required files
+2019-06-08 02:10:11,908 [MainThread  ] [INFO ]  Making testset indices

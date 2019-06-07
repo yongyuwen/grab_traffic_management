@@ -22,7 +22,8 @@ def get_grp_indices(loc_index_d, grp):
     """
     if grp in loc_index_d:
         return listify(loc_index_d[grp])
-    raise KeyError(f'Group {grp} not found')
+    logging.warning(f'Group {grp} not found')
+    return None
 
 
 def pred_holt(df, holt_params, grp, idx, type_, processed, failed_holt, test=False):
@@ -45,8 +46,8 @@ def pred_holt(df, holt_params, grp, idx, type_, processed, failed_holt, test=Fal
         df_sliced_processed = process_grp_df(df_sliced)
         train = df_sliced_processed['demand'].copy()
     except TypeError as e:
-        print(e)
-        print(f"Idx that failed = {idx} from grp {grp}")
+        logging.warning(e)
+        logging.warning(f"Idx that failed = {idx} from grp {grp}")
         if not failed_holt.get(type_):
             failed_holt[type_] = {}
         if not failed_holt[type_].get(grp):
@@ -59,8 +60,8 @@ def pred_holt(df, holt_params, grp, idx, type_, processed, failed_holt, test=Fal
 #             params = json.load(f)
         params = holt_params[type_][grp]
     except Exception as e:
-        print(e)
-        print(f"Cannot find params of {type_}-{grp}")
+        logging.warning(e)
+        logging.warning(f"Cannot find params of {type_}-{grp}")
         if not test:
             
             #print(f'Failed to load {DIR}{type_}/{grp}.txt')
@@ -72,11 +73,9 @@ def pred_holt(df, holt_params, grp, idx, type_, processed, failed_holt, test=Fal
             return (idx, None)
         pass
             
-    #print(params)
-    #print(train)
     try:
         if not params and not test:
-            print(f"Unable to build holt for {grp} {idx}")
+            logging.warning(f"Unable to build holt for {grp} {idx}")
             return (idx, None)
         if params:
             model = ExponentialSmoothing(train, 
@@ -86,7 +85,7 @@ def pred_holt(df, holt_params, grp, idx, type_, processed, failed_holt, test=Fal
                                                                   smoothing_seasonal=params['smoothing_seasonal'], 
                                                                   optimized=False)
         elif test:
-            print("Building model from scratch")
+            logging.info("Building model from scratch")
             model = ExponentialSmoothing(train, seasonal='mul', seasonal_periods=96).fit()
         #print(model.params)
         pred = model.predict(start=train.index[-1]-datetime.timedelta(minutes=15*5), end=train.index[-1]+datetime.timedelta(minutes=15*5))
@@ -98,7 +97,7 @@ def pred_holt(df, holt_params, grp, idx, type_, processed, failed_holt, test=Fal
         
         return (idx, pred.values)
     except:
-        print(f"Length of train for {grp}: {len(train)}")
+        logging.warning(f"Length of train for {grp}: {len(train)}")
         if not failed_holt.get(type_):
             failed_holt[type_] = {}
         if not failed_holt[type_].get(grp):
