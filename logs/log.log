@@ -1,0 +1,1343 @@
+2019-06-08 00:31:26,608 [MainThread  ] [WARNI]  hi
+2019-06-08 00:41:12,127 [MainThread  ] [INFO ]  Loading required files
+2019-06-08 00:43:05,261 [MainThread  ] [INFO ]  Loading required files
+2019-06-08 00:43:13,061 [MainThread  ] [INFO ]  Making testset indices
+2019-06-08 00:46:54,390 [MainThread  ] [INFO ]  Loading required files
+2019-06-08 00:47:01,824 [MainThread  ] [INFO ]  Making testset indices
+2019-06-08 00:47:04,359 [MainThread  ] [INFO ]  Length of df = 1301
+2019-06-08 00:47:04,360 [MainThread  ] [INFO ]  Adding demand
+2019-06-08 00:47:04,361 [MainThread  ] [INFO ]  Adding demand for t:-96
+2019-06-08 00:47:04,487 [MainThread  ] [INFO ]  Adding demand for cl:-96
+2019-06-08 00:47:04,506 [MainThread  ] [INFO ]  Adding demand for cs:-96
+2019-06-08 00:47:04,527 [MainThread  ] [INFO ]  Adding demand for t:-95
+2019-06-08 00:47:04,654 [MainThread  ] [INFO ]  Adding demand for cl:-95
+2019-06-08 00:47:04,674 [MainThread  ] [INFO ]  Adding demand for cs:-95
+2019-06-08 00:47:04,694 [MainThread  ] [INFO ]  Adding demand for t:-94
+2019-06-08 00:47:04,812 [MainThread  ] [INFO ]  Adding demand for cl:-94
+2019-06-08 00:47:04,832 [MainThread  ] [INFO ]  Adding demand for cs:-94
+2019-06-08 00:47:04,854 [MainThread  ] [INFO ]  Adding demand for t:-93
+2019-06-08 00:47:04,972 [MainThread  ] [INFO ]  Adding demand for cl:-93
+2019-06-08 00:47:04,993 [MainThread  ] [INFO ]  Adding demand for cs:-93
+2019-06-08 00:47:05,013 [MainThread  ] [INFO ]  Adding demand for t:-92
+2019-06-08 00:47:05,124 [MainThread  ] [INFO ]  Adding demand for cl:-92
+2019-06-08 00:47:05,144 [MainThread  ] [INFO ]  Adding demand for cs:-92
+2019-06-08 00:47:05,164 [MainThread  ] [INFO ]  Adding demand for t:-91
+2019-06-08 00:47:05,272 [MainThread  ] [INFO ]  Adding demand for cl:-91
+2019-06-08 00:47:05,291 [MainThread  ] [INFO ]  Adding demand for cs:-91
+2019-06-08 00:47:05,312 [MainThread  ] [INFO ]  Adding demand for t:-90
+2019-06-08 00:47:05,418 [MainThread  ] [INFO ]  Adding demand for cl:-90
+2019-06-08 00:47:05,438 [MainThread  ] [INFO ]  Adding demand for cs:-90
+2019-06-08 00:47:05,459 [MainThread  ] [INFO ]  Adding demand for t:-89
+2019-06-08 00:47:05,564 [MainThread  ] [INFO ]  Adding demand for cl:-89
+2019-06-08 00:47:05,583 [MainThread  ] [INFO ]  Adding demand for cs:-89
+2019-06-08 00:47:05,603 [MainThread  ] [INFO ]  Adding demand for t:-88
+2019-06-08 00:47:05,703 [MainThread  ] [INFO ]  Adding demand for cl:-88
+2019-06-08 00:47:05,724 [MainThread  ] [INFO ]  Adding demand for cs:-88
+2019-06-08 00:47:05,744 [MainThread  ] [INFO ]  Adding demand for t:-87
+2019-06-08 00:47:05,843 [MainThread  ] [INFO ]  Adding demand for cl:-87
+2019-06-08 00:47:05,863 [MainThread  ] [INFO ]  Adding demand for cs:-87
+2019-06-08 00:47:05,884 [MainThread  ] [INFO ]  Adding demand for t:-86
+2019-06-08 00:47:05,982 [MainThread  ] [INFO ]  Adding demand for cl:-86
+2019-06-08 00:47:06,002 [MainThread  ] [INFO ]  Adding demand for cs:-86
+2019-06-08 00:47:06,023 [MainThread  ] [INFO ]  Adding demand for t:-85
+2019-06-08 00:47:06,119 [MainThread  ] [INFO ]  Adding demand for cl:-85
+2019-06-08 00:47:06,139 [MainThread  ] [INFO ]  Adding demand for cs:-85
+2019-06-08 00:47:06,160 [MainThread  ] [INFO ]  Adding demand for t:-84
+2019-06-08 00:47:06,255 [MainThread  ] [INFO ]  Adding demand for cl:-84
+2019-06-08 00:47:06,276 [MainThread  ] [INFO ]  Adding demand for cs:-84
+2019-06-08 00:47:06,296 [MainThread  ] [INFO ]  Adding demand for t:-83
+2019-06-08 00:47:06,390 [MainThread  ] [INFO ]  Adding demand for cl:-83
+2019-06-08 00:47:06,410 [MainThread  ] [INFO ]  Adding demand for cs:-83
+2019-06-08 00:47:06,431 [MainThread  ] [INFO ]  Adding demand for t:-82
+2019-06-08 00:47:06,525 [MainThread  ] [INFO ]  Adding demand for cl:-82
+2019-06-08 00:47:06,545 [MainThread  ] [INFO ]  Adding demand for cs:-82
+2019-06-08 00:47:06,566 [MainThread  ] [INFO ]  Adding demand for t:-81
+2019-06-08 00:47:06,659 [MainThread  ] [INFO ]  Adding demand for cl:-81
+2019-06-08 00:47:06,681 [MainThread  ] [INFO ]  Adding demand for cs:-81
+2019-06-08 00:47:06,702 [MainThread  ] [INFO ]  Adding demand for t:-80
+2019-06-08 00:47:06,798 [MainThread  ] [INFO ]  Adding demand for cl:-80
+2019-06-08 00:47:06,819 [MainThread  ] [INFO ]  Adding demand for cs:-80
+2019-06-08 00:47:06,840 [MainThread  ] [INFO ]  Adding demand for t:-79
+2019-06-08 00:47:06,935 [MainThread  ] [INFO ]  Adding demand for cl:-79
+2019-06-08 00:47:06,955 [MainThread  ] [INFO ]  Adding demand for cs:-79
+2019-06-08 00:47:06,977 [MainThread  ] [INFO ]  Adding demand for t:-78
+2019-06-08 00:47:07,070 [MainThread  ] [INFO ]  Adding demand for cl:-78
+2019-06-08 00:47:07,091 [MainThread  ] [INFO ]  Adding demand for cs:-78
+2019-06-08 00:47:07,114 [MainThread  ] [INFO ]  Adding demand for t:-77
+2019-06-08 00:47:07,208 [MainThread  ] [INFO ]  Adding demand for cl:-77
+2019-06-08 00:47:07,231 [MainThread  ] [INFO ]  Adding demand for cs:-77
+2019-06-08 00:47:07,253 [MainThread  ] [INFO ]  Adding demand for t:-76
+2019-06-08 00:47:07,355 [MainThread  ] [INFO ]  Adding demand for cl:-76
+2019-06-08 00:47:07,379 [MainThread  ] [INFO ]  Adding demand for cs:-76
+2019-06-08 00:47:07,401 [MainThread  ] [INFO ]  Adding demand for t:-75
+2019-06-08 00:47:07,502 [MainThread  ] [INFO ]  Adding demand for cl:-75
+2019-06-08 00:47:07,525 [MainThread  ] [INFO ]  Adding demand for cs:-75
+2019-06-08 00:47:07,548 [MainThread  ] [INFO ]  Adding demand for t:-74
+2019-06-08 00:47:07,648 [MainThread  ] [INFO ]  Adding demand for cl:-74
+2019-06-08 00:47:07,672 [MainThread  ] [INFO ]  Adding demand for cs:-74
+2019-06-08 00:47:07,694 [MainThread  ] [INFO ]  Adding demand for t:-73
+2019-06-08 00:47:07,795 [MainThread  ] [INFO ]  Adding demand for cl:-73
+2019-06-08 00:47:07,818 [MainThread  ] [INFO ]  Adding demand for cs:-73
+2019-06-08 00:47:07,841 [MainThread  ] [INFO ]  Adding demand for t:-72
+2019-06-08 00:47:07,942 [MainThread  ] [INFO ]  Adding demand for cl:-72
+2019-06-08 00:47:07,964 [MainThread  ] [INFO ]  Adding demand for cs:-72
+2019-06-08 00:47:07,987 [MainThread  ] [INFO ]  Adding demand for t:-71
+2019-06-08 00:47:08,086 [MainThread  ] [INFO ]  Adding demand for cl:-71
+2019-06-08 00:47:08,108 [MainThread  ] [INFO ]  Adding demand for cs:-71
+2019-06-08 00:47:08,131 [MainThread  ] [INFO ]  Adding demand for t:-70
+2019-06-08 00:47:08,236 [MainThread  ] [INFO ]  Adding demand for cl:-70
+2019-06-08 00:47:08,259 [MainThread  ] [INFO ]  Adding demand for cs:-70
+2019-06-08 00:47:08,283 [MainThread  ] [INFO ]  Adding demand for t:-69
+2019-06-08 00:47:08,387 [MainThread  ] [INFO ]  Adding demand for cl:-69
+2019-06-08 00:47:08,409 [MainThread  ] [INFO ]  Adding demand for cs:-69
+2019-06-08 00:47:08,432 [MainThread  ] [INFO ]  Adding demand for t:-68
+2019-06-08 00:47:08,538 [MainThread  ] [INFO ]  Adding demand for cl:-68
+2019-06-08 00:47:08,561 [MainThread  ] [INFO ]  Adding demand for cs:-68
+2019-06-08 00:47:08,584 [MainThread  ] [INFO ]  Adding demand for t:-67
+2019-06-08 00:47:08,693 [MainThread  ] [INFO ]  Adding demand for cl:-67
+2019-06-08 00:47:08,717 [MainThread  ] [INFO ]  Adding demand for cs:-67
+2019-06-08 00:47:08,742 [MainThread  ] [INFO ]  Adding demand for t:-66
+2019-06-08 00:47:08,854 [MainThread  ] [INFO ]  Adding demand for cl:-66
+2019-06-08 00:47:08,884 [MainThread  ] [INFO ]  Adding demand for cs:-66
+2019-06-08 00:47:08,914 [MainThread  ] [INFO ]  Adding demand for t:-65
+2019-06-08 00:47:09,032 [MainThread  ] [INFO ]  Adding demand for cl:-65
+2019-06-08 00:47:09,057 [MainThread  ] [INFO ]  Adding demand for cs:-65
+2019-06-08 00:47:09,083 [MainThread  ] [INFO ]  Adding demand for t:-64
+2019-06-08 00:47:09,204 [MainThread  ] [INFO ]  Adding demand for cl:-64
+2019-06-08 00:47:09,231 [MainThread  ] [INFO ]  Adding demand for cs:-64
+2019-06-08 00:47:09,259 [MainThread  ] [INFO ]  Adding demand for t:-63
+2019-06-08 00:47:09,378 [MainThread  ] [INFO ]  Adding demand for cl:-63
+2019-06-08 00:47:09,406 [MainThread  ] [INFO ]  Adding demand for cs:-63
+2019-06-08 00:47:09,433 [MainThread  ] [INFO ]  Adding demand for t:-62
+2019-06-08 00:47:09,556 [MainThread  ] [INFO ]  Adding demand for cl:-62
+2019-06-08 00:47:09,583 [MainThread  ] [INFO ]  Adding demand for cs:-62
+2019-06-08 00:47:09,610 [MainThread  ] [INFO ]  Adding demand for t:-61
+2019-06-08 00:47:09,735 [MainThread  ] [INFO ]  Adding demand for cl:-61
+2019-06-08 00:47:09,761 [MainThread  ] [INFO ]  Adding demand for cs:-61
+2019-06-08 00:47:09,789 [MainThread  ] [INFO ]  Adding demand for t:-60
+2019-06-08 00:47:09,911 [MainThread  ] [INFO ]  Adding demand for cl:-60
+2019-06-08 00:47:09,939 [MainThread  ] [INFO ]  Adding demand for cs:-60
+2019-06-08 00:47:09,967 [MainThread  ] [INFO ]  Adding demand for t:-59
+2019-06-08 00:47:10,093 [MainThread  ] [INFO ]  Adding demand for cl:-59
+2019-06-08 00:47:10,121 [MainThread  ] [INFO ]  Adding demand for cs:-59
+2019-06-08 00:47:10,149 [MainThread  ] [INFO ]  Adding demand for t:-58
+2019-06-08 00:47:10,279 [MainThread  ] [INFO ]  Adding demand for cl:-58
+2019-06-08 00:47:10,305 [MainThread  ] [INFO ]  Adding demand for cs:-58
+2019-06-08 00:47:10,335 [MainThread  ] [INFO ]  Adding demand for t:-57
+2019-06-08 00:47:10,476 [MainThread  ] [INFO ]  Adding demand for cl:-57
+2019-06-08 00:47:10,505 [MainThread  ] [INFO ]  Adding demand for cs:-57
+2019-06-08 00:47:10,534 [MainThread  ] [INFO ]  Adding demand for t:-56
+2019-06-08 00:47:10,668 [MainThread  ] [INFO ]  Adding demand for cl:-56
+2019-06-08 00:47:10,696 [MainThread  ] [INFO ]  Adding demand for cs:-56
+2019-06-08 00:47:10,723 [MainThread  ] [INFO ]  Adding demand for t:-55
+2019-06-08 00:47:10,854 [MainThread  ] [INFO ]  Adding demand for cl:-55
+2019-06-08 00:47:10,881 [MainThread  ] [INFO ]  Adding demand for cs:-55
+2019-06-08 00:47:10,909 [MainThread  ] [INFO ]  Adding demand for t:-54
+2019-06-08 00:47:11,046 [MainThread  ] [INFO ]  Adding demand for cl:-54
+2019-06-08 00:47:11,073 [MainThread  ] [INFO ]  Adding demand for cs:-54
+2019-06-08 00:47:11,101 [MainThread  ] [INFO ]  Adding demand for t:-53
+2019-06-08 00:47:11,239 [MainThread  ] [INFO ]  Adding demand for cl:-53
+2019-06-08 00:47:11,266 [MainThread  ] [INFO ]  Adding demand for cs:-53
+2019-06-08 00:47:11,293 [MainThread  ] [INFO ]  Adding demand for t:-52
+2019-06-08 00:47:11,429 [MainThread  ] [INFO ]  Adding demand for cl:-52
+2019-06-08 00:47:11,456 [MainThread  ] [INFO ]  Adding demand for cs:-52
+2019-06-08 00:47:11,484 [MainThread  ] [INFO ]  Adding demand for t:-51
+2019-06-08 00:47:11,622 [MainThread  ] [INFO ]  Adding demand for cl:-51
+2019-06-08 00:47:11,650 [MainThread  ] [INFO ]  Adding demand for cs:-51
+2019-06-08 00:47:11,678 [MainThread  ] [INFO ]  Adding demand for t:-50
+2019-06-08 00:47:11,818 [MainThread  ] [INFO ]  Adding demand for cl:-50
+2019-06-08 00:47:11,846 [MainThread  ] [INFO ]  Adding demand for cs:-50
+2019-06-08 00:47:11,875 [MainThread  ] [INFO ]  Adding demand for t:-49
+2019-06-08 00:47:12,017 [MainThread  ] [INFO ]  Adding demand for cl:-49
+2019-06-08 00:47:12,045 [MainThread  ] [INFO ]  Adding demand for cs:-49
+2019-06-08 00:47:12,074 [MainThread  ] [INFO ]  Adding demand for t:-48
+2019-06-08 00:47:12,215 [MainThread  ] [INFO ]  Adding demand for cl:-48
+2019-06-08 00:47:12,243 [MainThread  ] [INFO ]  Adding demand for cs:-48
+2019-06-08 00:47:12,271 [MainThread  ] [INFO ]  Adding demand for t:-47
+2019-06-08 00:47:12,414 [MainThread  ] [INFO ]  Adding demand for cl:-47
+2019-06-08 00:47:12,443 [MainThread  ] [INFO ]  Adding demand for cs:-47
+2019-06-08 00:47:12,471 [MainThread  ] [INFO ]  Adding demand for t:-46
+2019-06-08 00:47:12,614 [MainThread  ] [INFO ]  Adding demand for cl:-46
+2019-06-08 00:47:12,643 [MainThread  ] [INFO ]  Adding demand for cs:-46
+2019-06-08 00:47:12,673 [MainThread  ] [INFO ]  Adding demand for t:-45
+2019-06-08 00:47:12,824 [MainThread  ] [INFO ]  Adding demand for cl:-45
+2019-06-08 00:47:12,855 [MainThread  ] [INFO ]  Adding demand for cs:-45
+2019-06-08 00:47:12,887 [MainThread  ] [INFO ]  Adding demand for t:-44
+2019-06-08 00:47:13,040 [MainThread  ] [INFO ]  Adding demand for cl:-44
+2019-06-08 00:47:13,071 [MainThread  ] [INFO ]  Adding demand for cs:-44
+2019-06-08 00:47:13,102 [MainThread  ] [INFO ]  Adding demand for t:-43
+2019-06-08 00:47:13,256 [MainThread  ] [INFO ]  Adding demand for cl:-43
+2019-06-08 00:47:13,286 [MainThread  ] [INFO ]  Adding demand for cs:-43
+2019-06-08 00:47:13,316 [MainThread  ] [INFO ]  Adding demand for t:-42
+2019-06-08 00:47:13,466 [MainThread  ] [INFO ]  Adding demand for cl:-42
+2019-06-08 00:47:13,497 [MainThread  ] [INFO ]  Adding demand for cs:-42
+2019-06-08 00:47:13,527 [MainThread  ] [INFO ]  Adding demand for t:-41
+2019-06-08 00:47:13,679 [MainThread  ] [INFO ]  Adding demand for cl:-41
+2019-06-08 00:47:13,710 [MainThread  ] [INFO ]  Adding demand for cs:-41
+2019-06-08 00:47:13,742 [MainThread  ] [INFO ]  Adding demand for t:-40
+2019-06-08 00:47:13,906 [MainThread  ] [INFO ]  Adding demand for cl:-40
+2019-06-08 00:47:13,941 [MainThread  ] [INFO ]  Adding demand for cs:-40
+2019-06-08 00:47:13,973 [MainThread  ] [INFO ]  Adding demand for t:-39
+2019-06-08 00:47:14,133 [MainThread  ] [INFO ]  Adding demand for cl:-39
+2019-06-08 00:47:14,164 [MainThread  ] [INFO ]  Adding demand for cs:-39
+2019-06-08 00:47:14,196 [MainThread  ] [INFO ]  Adding demand for t:-38
+2019-06-08 00:47:14,349 [MainThread  ] [INFO ]  Adding demand for cl:-38
+2019-06-08 00:47:14,379 [MainThread  ] [INFO ]  Adding demand for cs:-38
+2019-06-08 00:47:14,409 [MainThread  ] [INFO ]  Adding demand for t:-37
+2019-06-08 00:47:14,563 [MainThread  ] [INFO ]  Adding demand for cl:-37
+2019-06-08 00:47:14,593 [MainThread  ] [INFO ]  Adding demand for cs:-37
+2019-06-08 00:47:14,624 [MainThread  ] [INFO ]  Adding demand for t:-36
+2019-06-08 00:47:14,791 [MainThread  ] [INFO ]  Adding demand for cl:-36
+2019-06-08 00:47:14,827 [MainThread  ] [INFO ]  Adding demand for cs:-36
+2019-06-08 00:47:14,859 [MainThread  ] [INFO ]  Adding demand for t:-35
+2019-06-08 00:47:15,017 [MainThread  ] [INFO ]  Adding demand for cl:-35
+2019-06-08 00:47:15,049 [MainThread  ] [INFO ]  Adding demand for cs:-35
+2019-06-08 00:47:15,081 [MainThread  ] [INFO ]  Adding demand for t:-34
+2019-06-08 00:47:15,244 [MainThread  ] [INFO ]  Adding demand for cl:-34
+2019-06-08 00:47:15,276 [MainThread  ] [INFO ]  Adding demand for cs:-34
+2019-06-08 00:47:15,308 [MainThread  ] [INFO ]  Adding demand for t:-33
+2019-06-08 00:47:15,467 [MainThread  ] [INFO ]  Adding demand for cl:-33
+2019-06-08 00:47:15,499 [MainThread  ] [INFO ]  Adding demand for cs:-33
+2019-06-08 00:47:15,532 [MainThread  ] [INFO ]  Adding demand for t:-32
+2019-06-08 00:47:15,688 [MainThread  ] [INFO ]  Adding demand for cl:-32
+2019-06-08 00:47:15,720 [MainThread  ] [INFO ]  Adding demand for cs:-32
+2019-06-08 00:47:15,753 [MainThread  ] [INFO ]  Adding demand for t:-31
+2019-06-08 00:47:15,923 [MainThread  ] [INFO ]  Adding demand for cl:-31
+2019-06-08 00:47:15,955 [MainThread  ] [INFO ]  Adding demand for cs:-31
+2019-06-08 00:47:15,987 [MainThread  ] [INFO ]  Adding demand for t:-30
+2019-06-08 00:47:16,156 [MainThread  ] [INFO ]  Adding demand for cl:-30
+2019-06-08 00:47:16,195 [MainThread  ] [INFO ]  Adding demand for cs:-30
+2019-06-08 00:47:16,235 [MainThread  ] [INFO ]  Adding demand for t:-29
+2019-06-08 00:47:16,406 [MainThread  ] [INFO ]  Adding demand for cl:-29
+2019-06-08 00:47:16,441 [MainThread  ] [INFO ]  Adding demand for cs:-29
+2019-06-08 00:47:16,476 [MainThread  ] [INFO ]  Adding demand for t:-28
+2019-06-08 00:47:16,651 [MainThread  ] [INFO ]  Adding demand for cl:-28
+2019-06-08 00:47:16,692 [MainThread  ] [INFO ]  Adding demand for cs:-28
+2019-06-08 00:47:16,735 [MainThread  ] [INFO ]  Adding demand for t:-27
+2019-06-08 00:47:16,916 [MainThread  ] [INFO ]  Adding demand for cl:-27
+2019-06-08 00:47:16,949 [MainThread  ] [INFO ]  Adding demand for cs:-27
+2019-06-08 00:47:16,991 [MainThread  ] [INFO ]  Adding demand for t:-26
+2019-06-08 00:47:17,169 [MainThread  ] [INFO ]  Adding demand for cl:-26
+2019-06-08 00:47:17,201 [MainThread  ] [INFO ]  Adding demand for cs:-26
+2019-06-08 00:47:17,237 [MainThread  ] [INFO ]  Adding demand for t:-25
+2019-06-08 00:47:17,397 [MainThread  ] [INFO ]  Adding demand for cl:-25
+2019-06-08 00:47:17,433 [MainThread  ] [INFO ]  Adding demand for cs:-25
+2019-06-08 00:47:17,471 [MainThread  ] [INFO ]  Adding demand for t:-24
+2019-06-08 00:47:17,632 [MainThread  ] [INFO ]  Adding demand for cl:-24
+2019-06-08 00:47:17,666 [MainThread  ] [INFO ]  Adding demand for cs:-24
+2019-06-08 00:47:17,701 [MainThread  ] [INFO ]  Adding demand for t:-23
+2019-06-08 00:47:17,866 [MainThread  ] [INFO ]  Adding demand for cl:-23
+2019-06-08 00:47:17,905 [MainThread  ] [INFO ]  Adding demand for cs:-23
+2019-06-08 00:47:17,939 [MainThread  ] [INFO ]  Adding demand for t:-22
+2019-06-08 00:47:18,101 [MainThread  ] [INFO ]  Adding demand for cl:-22
+2019-06-08 00:47:18,137 [MainThread  ] [INFO ]  Adding demand for cs:-22
+2019-06-08 00:47:18,173 [MainThread  ] [INFO ]  Adding demand for t:-21
+2019-06-08 00:47:18,332 [MainThread  ] [INFO ]  Adding demand for cl:-21
+2019-06-08 00:47:18,368 [MainThread  ] [INFO ]  Adding demand for cs:-21
+2019-06-08 00:47:18,403 [MainThread  ] [INFO ]  Adding demand for t:-20
+2019-06-08 00:47:18,574 [MainThread  ] [INFO ]  Adding demand for cl:-20
+2019-06-08 00:47:18,609 [MainThread  ] [INFO ]  Adding demand for cs:-20
+2019-06-08 00:47:18,644 [MainThread  ] [INFO ]  Adding demand for t:-19
+2019-06-08 00:47:18,804 [MainThread  ] [INFO ]  Adding demand for cl:-19
+2019-06-08 00:47:18,841 [MainThread  ] [INFO ]  Adding demand for cs:-19
+2019-06-08 00:47:18,884 [MainThread  ] [INFO ]  Adding demand for t:-18
+2019-06-08 00:47:19,046 [MainThread  ] [INFO ]  Adding demand for cl:-18
+2019-06-08 00:47:19,081 [MainThread  ] [INFO ]  Adding demand for cs:-18
+2019-06-08 00:47:19,117 [MainThread  ] [INFO ]  Adding demand for t:-17
+2019-06-08 00:47:19,283 [MainThread  ] [INFO ]  Adding demand for cl:-17
+2019-06-08 00:47:19,329 [MainThread  ] [INFO ]  Adding demand for cs:-17
+2019-06-08 00:47:19,365 [MainThread  ] [INFO ]  Adding demand for t:-16
+2019-06-08 00:47:19,522 [MainThread  ] [INFO ]  Adding demand for cl:-16
+2019-06-08 00:47:19,560 [MainThread  ] [INFO ]  Adding demand for cs:-16
+2019-06-08 00:47:19,605 [MainThread  ] [INFO ]  Adding demand for t:-15
+2019-06-08 00:47:19,773 [MainThread  ] [INFO ]  Adding demand for cl:-15
+2019-06-08 00:47:19,818 [MainThread  ] [INFO ]  Adding demand for cs:-15
+2019-06-08 00:47:19,857 [MainThread  ] [INFO ]  Adding demand for t:-14
+2019-06-08 00:47:20,014 [MainThread  ] [INFO ]  Adding demand for cl:-14
+2019-06-08 00:47:20,052 [MainThread  ] [INFO ]  Adding demand for cs:-14
+2019-06-08 00:47:20,093 [MainThread  ] [INFO ]  Adding demand for t:-13
+2019-06-08 00:47:20,250 [MainThread  ] [INFO ]  Adding demand for cl:-13
+2019-06-08 00:47:20,296 [MainThread  ] [INFO ]  Adding demand for cs:-13
+2019-06-08 00:47:20,333 [MainThread  ] [INFO ]  Adding demand for t:-12
+2019-06-08 00:47:20,495 [MainThread  ] [INFO ]  Adding demand for cl:-12
+2019-06-08 00:47:20,534 [MainThread  ] [INFO ]  Adding demand for cs:-12
+2019-06-08 00:47:20,572 [MainThread  ] [INFO ]  Adding demand for t:-11
+2019-06-08 00:47:20,724 [MainThread  ] [INFO ]  Adding demand for cl:-11
+2019-06-08 00:47:20,763 [MainThread  ] [INFO ]  Adding demand for cs:-11
+2019-06-08 00:47:20,800 [MainThread  ] [INFO ]  Adding demand for t:-10
+2019-06-08 00:47:20,963 [MainThread  ] [INFO ]  Adding demand for cl:-10
+2019-06-08 00:47:21,006 [MainThread  ] [INFO ]  Adding demand for cs:-10
+2019-06-08 00:47:21,048 [MainThread  ] [INFO ]  Adding demand for t:-9
+2019-06-08 00:47:21,220 [MainThread  ] [INFO ]  Adding demand for cl:-9
+2019-06-08 00:47:21,256 [MainThread  ] [INFO ]  Adding demand for cs:-9
+2019-06-08 00:47:21,300 [MainThread  ] [INFO ]  Adding demand for t:-8
+2019-06-08 00:47:21,452 [MainThread  ] [INFO ]  Adding demand for cl:-8
+2019-06-08 00:47:21,491 [MainThread  ] [INFO ]  Adding demand for cs:-8
+2019-06-08 00:47:21,539 [MainThread  ] [INFO ]  Adding demand for t:-7
+2019-06-08 00:47:21,697 [MainThread  ] [INFO ]  Adding demand for cl:-7
+2019-06-08 00:47:21,737 [MainThread  ] [INFO ]  Adding demand for cs:-7
+2019-06-08 00:47:21,776 [MainThread  ] [INFO ]  Adding demand for t:-6
+2019-06-08 00:47:21,927 [MainThread  ] [INFO ]  Adding demand for cl:-6
+2019-06-08 00:47:21,968 [MainThread  ] [INFO ]  Adding demand for cs:-6
+2019-06-08 00:47:22,016 [MainThread  ] [INFO ]  Adding demand for t:-5
+2019-06-08 00:47:22,165 [MainThread  ] [INFO ]  Adding demand for cl:-5
+2019-06-08 00:47:22,207 [MainThread  ] [INFO ]  Adding demand for cs:-5
+2019-06-08 00:47:22,244 [MainThread  ] [INFO ]  Adding demand for t:-4
+2019-06-08 00:47:22,391 [MainThread  ] [INFO ]  Adding demand for cl:-4
+2019-06-08 00:47:22,434 [MainThread  ] [INFO ]  Adding demand for cs:-4
+2019-06-08 00:47:22,482 [MainThread  ] [INFO ]  Adding demand for t:-3
+2019-06-08 00:47:22,635 [MainThread  ] [INFO ]  Adding demand for cl:-3
+2019-06-08 00:47:22,680 [MainThread  ] [INFO ]  Adding demand for cs:-3
+2019-06-08 00:47:22,729 [MainThread  ] [INFO ]  Adding demand for t:-2
+2019-06-08 00:47:22,885 [MainThread  ] [INFO ]  Adding demand for cl:-2
+2019-06-08 00:47:22,934 [MainThread  ] [INFO ]  Adding demand for cs:-2
+2019-06-08 00:47:22,982 [MainThread  ] [INFO ]  Adding demand for t:-1
+2019-06-08 00:47:23,157 [MainThread  ] [INFO ]  Adding demand for cl:-1
+2019-06-08 00:47:23,205 [MainThread  ] [INFO ]  Adding demand for cs:-1
+2019-06-08 00:47:23,250 [MainThread  ] [INFO ]  Adding demand for t:0
+2019-06-08 00:47:23,459 [MainThread  ] [INFO ]  Adding demand for cl:0
+2019-06-08 00:47:23,498 [MainThread  ] [INFO ]  Adding demand for cs:0
+2019-06-08 00:47:23,541 [MainThread  ] [INFO ]  Adding statistics
+2019-06-08 00:47:23,541 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: mean
+2019-06-08 00:47:23,587 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: median
+2019-06-08 00:47:23,635 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: max
+2019-06-08 00:47:23,675 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: min
+2019-06-08 00:47:23,726 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: std
+2019-06-08 00:47:23,767 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: mean
+2019-06-08 00:47:25,490 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: median
+2019-06-08 00:47:27,331 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: max
+2019-06-08 00:47:29,059 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: min
+2019-06-08 00:47:30,792 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: std
+2019-06-08 00:47:32,551 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: mean
+2019-06-08 00:47:32,593 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: median
+2019-06-08 00:47:32,632 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: max
+2019-06-08 00:47:32,671 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: min
+2019-06-08 00:47:32,711 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: std
+2019-06-08 00:47:32,754 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: mean
+2019-06-08 00:47:32,792 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: median
+2019-06-08 00:47:32,831 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: max
+2019-06-08 00:47:32,880 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: min
+2019-06-08 00:47:32,928 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: std
+2019-06-08 00:47:32,972 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: mean
+2019-06-08 00:47:33,432 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: median
+2019-06-08 00:47:34,001 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: max
+2019-06-08 00:47:34,468 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: min
+2019-06-08 00:47:34,949 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: std
+2019-06-08 00:47:35,440 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: mean
+2019-06-08 00:47:35,484 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: median
+2019-06-08 00:47:35,523 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: max
+2019-06-08 00:47:35,562 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: min
+2019-06-08 00:47:35,602 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: std
+2019-06-08 00:47:35,642 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: mean
+2019-06-08 00:51:25,026 [MainThread  ] [WARNI]  hi
+2019-06-08 00:58:04,006 [MainThread  ] [INFO ]  Loading required files
+2019-06-08 00:58:11,371 [MainThread  ] [INFO ]  Making testset indices
+2019-06-08 00:58:13,875 [MainThread  ] [INFO ]  Length of df = 1301
+2019-06-08 00:58:13,878 [MainThread  ] [INFO ]  Adding demand
+2019-06-08 00:58:13,878 [MainThread  ] [INFO ]  Adding demand for t:-96
+2019-06-08 00:58:13,999 [MainThread  ] [INFO ]  Adding demand for cl:-96
+2019-06-08 00:58:14,018 [MainThread  ] [INFO ]  Adding demand for cs:-96
+2019-06-08 00:58:14,038 [MainThread  ] [INFO ]  Adding demand for t:-95
+2019-06-08 00:58:14,158 [MainThread  ] [INFO ]  Adding demand for cl:-95
+2019-06-08 00:58:14,177 [MainThread  ] [INFO ]  Adding demand for cs:-95
+2019-06-08 00:58:14,196 [MainThread  ] [INFO ]  Adding demand for t:-94
+2019-06-08 00:58:14,312 [MainThread  ] [INFO ]  Adding demand for cl:-94
+2019-06-08 00:58:14,332 [MainThread  ] [INFO ]  Adding demand for cs:-94
+2019-06-08 00:58:14,352 [MainThread  ] [INFO ]  Adding demand for t:-93
+2019-06-08 00:58:14,468 [MainThread  ] [INFO ]  Adding demand for cl:-93
+2019-06-08 00:58:14,488 [MainThread  ] [INFO ]  Adding demand for cs:-93
+2019-06-08 00:58:14,508 [MainThread  ] [INFO ]  Adding demand for t:-92
+2019-06-08 00:58:14,619 [MainThread  ] [INFO ]  Adding demand for cl:-92
+2019-06-08 00:58:14,638 [MainThread  ] [INFO ]  Adding demand for cs:-92
+2019-06-08 00:58:14,658 [MainThread  ] [INFO ]  Adding demand for t:-91
+2019-06-08 00:58:14,765 [MainThread  ] [INFO ]  Adding demand for cl:-91
+2019-06-08 00:58:14,785 [MainThread  ] [INFO ]  Adding demand for cs:-91
+2019-06-08 00:58:14,805 [MainThread  ] [INFO ]  Adding demand for t:-90
+2019-06-08 00:58:14,915 [MainThread  ] [INFO ]  Adding demand for cl:-90
+2019-06-08 00:58:14,935 [MainThread  ] [INFO ]  Adding demand for cs:-90
+2019-06-08 00:58:14,955 [MainThread  ] [INFO ]  Adding demand for t:-89
+2019-06-08 00:58:15,059 [MainThread  ] [INFO ]  Adding demand for cl:-89
+2019-06-08 00:58:15,079 [MainThread  ] [INFO ]  Adding demand for cs:-89
+2019-06-08 00:58:15,099 [MainThread  ] [INFO ]  Adding demand for t:-88
+2019-06-08 00:58:15,199 [MainThread  ] [INFO ]  Adding demand for cl:-88
+2019-06-08 00:58:15,219 [MainThread  ] [INFO ]  Adding demand for cs:-88
+2019-06-08 00:58:15,240 [MainThread  ] [INFO ]  Adding demand for t:-87
+2019-06-08 00:58:15,340 [MainThread  ] [INFO ]  Adding demand for cl:-87
+2019-06-08 00:58:15,361 [MainThread  ] [INFO ]  Adding demand for cs:-87
+2019-06-08 00:58:15,381 [MainThread  ] [INFO ]  Adding demand for t:-86
+2019-06-08 00:58:15,478 [MainThread  ] [INFO ]  Adding demand for cl:-86
+2019-06-08 00:58:15,498 [MainThread  ] [INFO ]  Adding demand for cs:-86
+2019-06-08 00:58:15,518 [MainThread  ] [INFO ]  Adding demand for t:-85
+2019-06-08 00:58:15,614 [MainThread  ] [INFO ]  Adding demand for cl:-85
+2019-06-08 00:58:15,635 [MainThread  ] [INFO ]  Adding demand for cs:-85
+2019-06-08 00:58:15,655 [MainThread  ] [INFO ]  Adding demand for t:-84
+2019-06-08 00:58:15,751 [MainThread  ] [INFO ]  Adding demand for cl:-84
+2019-06-08 00:58:15,771 [MainThread  ] [INFO ]  Adding demand for cs:-84
+2019-06-08 00:58:15,792 [MainThread  ] [INFO ]  Adding demand for t:-83
+2019-06-08 00:58:15,886 [MainThread  ] [INFO ]  Adding demand for cl:-83
+2019-06-08 00:58:15,907 [MainThread  ] [INFO ]  Adding demand for cs:-83
+2019-06-08 00:58:15,928 [MainThread  ] [INFO ]  Adding demand for t:-82
+2019-06-08 00:58:16,023 [MainThread  ] [INFO ]  Adding demand for cl:-82
+2019-06-08 00:58:16,044 [MainThread  ] [INFO ]  Adding demand for cs:-82
+2019-06-08 00:58:16,066 [MainThread  ] [INFO ]  Adding demand for t:-81
+2019-06-08 00:58:16,160 [MainThread  ] [INFO ]  Adding demand for cl:-81
+2019-06-08 00:58:16,181 [MainThread  ] [INFO ]  Adding demand for cs:-81
+2019-06-08 00:58:16,203 [MainThread  ] [INFO ]  Adding demand for t:-80
+2019-06-08 00:58:16,298 [MainThread  ] [INFO ]  Adding demand for cl:-80
+2019-06-08 00:58:16,319 [MainThread  ] [INFO ]  Adding demand for cs:-80
+2019-06-08 00:58:16,340 [MainThread  ] [INFO ]  Adding demand for t:-79
+2019-06-08 00:58:16,435 [MainThread  ] [INFO ]  Adding demand for cl:-79
+2019-06-08 00:58:16,457 [MainThread  ] [INFO ]  Adding demand for cs:-79
+2019-06-08 00:58:16,478 [MainThread  ] [INFO ]  Adding demand for t:-78
+2019-06-08 00:58:16,572 [MainThread  ] [INFO ]  Adding demand for cl:-78
+2019-06-08 00:58:16,593 [MainThread  ] [INFO ]  Adding demand for cs:-78
+2019-06-08 00:58:16,613 [MainThread  ] [INFO ]  Adding demand for t:-77
+2019-06-08 00:58:16,707 [MainThread  ] [INFO ]  Adding demand for cl:-77
+2019-06-08 00:58:16,729 [MainThread  ] [INFO ]  Adding demand for cs:-77
+2019-06-08 00:58:16,751 [MainThread  ] [INFO ]  Adding demand for t:-76
+2019-06-08 00:58:16,847 [MainThread  ] [INFO ]  Adding demand for cl:-76
+2019-06-08 00:58:16,869 [MainThread  ] [INFO ]  Adding demand for cs:-76
+2019-06-08 00:58:16,891 [MainThread  ] [INFO ]  Adding demand for t:-75
+2019-06-08 00:58:16,987 [MainThread  ] [INFO ]  Adding demand for cl:-75
+2019-06-08 00:58:17,009 [MainThread  ] [INFO ]  Adding demand for cs:-75
+2019-06-08 00:58:17,032 [MainThread  ] [INFO ]  Adding demand for t:-74
+2019-06-08 00:58:17,130 [MainThread  ] [INFO ]  Adding demand for cl:-74
+2019-06-08 00:58:17,151 [MainThread  ] [INFO ]  Adding demand for cs:-74
+2019-06-08 00:58:17,174 [MainThread  ] [INFO ]  Adding demand for t:-73
+2019-06-08 00:58:17,272 [MainThread  ] [INFO ]  Adding demand for cl:-73
+2019-06-08 00:58:17,294 [MainThread  ] [INFO ]  Adding demand for cs:-73
+2019-06-08 00:58:17,316 [MainThread  ] [INFO ]  Adding demand for t:-72
+2019-06-08 00:58:17,418 [MainThread  ] [INFO ]  Adding demand for cl:-72
+2019-06-08 00:58:17,441 [MainThread  ] [INFO ]  Adding demand for cs:-72
+2019-06-08 00:58:17,464 [MainThread  ] [INFO ]  Adding demand for t:-71
+2019-06-08 00:58:17,563 [MainThread  ] [INFO ]  Adding demand for cl:-71
+2019-06-08 00:58:17,586 [MainThread  ] [INFO ]  Adding demand for cs:-71
+2019-06-08 00:58:17,608 [MainThread  ] [INFO ]  Adding demand for t:-70
+2019-06-08 00:58:17,711 [MainThread  ] [INFO ]  Adding demand for cl:-70
+2019-06-08 00:58:17,732 [MainThread  ] [INFO ]  Adding demand for cs:-70
+2019-06-08 00:58:17,755 [MainThread  ] [INFO ]  Adding demand for t:-69
+2019-06-08 00:58:17,860 [MainThread  ] [INFO ]  Adding demand for cl:-69
+2019-06-08 00:58:17,882 [MainThread  ] [INFO ]  Adding demand for cs:-69
+2019-06-08 00:58:17,906 [MainThread  ] [INFO ]  Adding demand for t:-68
+2019-06-08 00:58:18,010 [MainThread  ] [INFO ]  Adding demand for cl:-68
+2019-06-08 00:58:18,034 [MainThread  ] [INFO ]  Adding demand for cs:-68
+2019-06-08 00:58:18,057 [MainThread  ] [INFO ]  Adding demand for t:-67
+2019-06-08 00:58:18,163 [MainThread  ] [INFO ]  Adding demand for cl:-67
+2019-06-08 00:58:18,186 [MainThread  ] [INFO ]  Adding demand for cs:-67
+2019-06-08 00:58:18,210 [MainThread  ] [INFO ]  Adding demand for t:-66
+2019-06-08 00:58:18,319 [MainThread  ] [INFO ]  Adding demand for cl:-66
+2019-06-08 00:58:18,342 [MainThread  ] [INFO ]  Adding demand for cs:-66
+2019-06-08 00:58:18,366 [MainThread  ] [INFO ]  Adding demand for t:-65
+2019-06-08 00:58:18,477 [MainThread  ] [INFO ]  Adding demand for cl:-65
+2019-06-08 00:58:18,501 [MainThread  ] [INFO ]  Adding demand for cs:-65
+2019-06-08 00:58:18,526 [MainThread  ] [INFO ]  Adding demand for t:-64
+2019-06-08 00:58:18,640 [MainThread  ] [INFO ]  Adding demand for cl:-64
+2019-06-08 00:58:18,666 [MainThread  ] [INFO ]  Adding demand for cs:-64
+2019-06-08 00:58:18,692 [MainThread  ] [INFO ]  Adding demand for t:-63
+2019-06-08 00:58:18,807 [MainThread  ] [INFO ]  Adding demand for cl:-63
+2019-06-08 00:58:18,833 [MainThread  ] [INFO ]  Adding demand for cs:-63
+2019-06-08 00:58:18,857 [MainThread  ] [INFO ]  Adding demand for t:-62
+2019-06-08 00:58:18,975 [MainThread  ] [INFO ]  Adding demand for cl:-62
+2019-06-08 00:58:19,001 [MainThread  ] [INFO ]  Adding demand for cs:-62
+2019-06-08 00:58:19,027 [MainThread  ] [INFO ]  Adding demand for t:-61
+2019-06-08 00:58:19,145 [MainThread  ] [INFO ]  Adding demand for cl:-61
+2019-06-08 00:58:19,171 [MainThread  ] [INFO ]  Adding demand for cs:-61
+2019-06-08 00:58:19,197 [MainThread  ] [INFO ]  Adding demand for t:-60
+2019-06-08 00:58:19,316 [MainThread  ] [INFO ]  Adding demand for cl:-60
+2019-06-08 00:58:19,342 [MainThread  ] [INFO ]  Adding demand for cs:-60
+2019-06-08 00:58:19,368 [MainThread  ] [INFO ]  Adding demand for t:-59
+2019-06-08 00:58:19,491 [MainThread  ] [INFO ]  Adding demand for cl:-59
+2019-06-08 00:58:19,517 [MainThread  ] [INFO ]  Adding demand for cs:-59
+2019-06-08 00:58:19,543 [MainThread  ] [INFO ]  Adding demand for t:-58
+2019-06-08 00:58:19,667 [MainThread  ] [INFO ]  Adding demand for cl:-58
+2019-06-08 00:58:19,694 [MainThread  ] [INFO ]  Adding demand for cs:-58
+2019-06-08 00:58:19,720 [MainThread  ] [INFO ]  Adding demand for t:-57
+2019-06-08 00:58:19,847 [MainThread  ] [INFO ]  Adding demand for cl:-57
+2019-06-08 00:58:19,873 [MainThread  ] [INFO ]  Adding demand for cs:-57
+2019-06-08 00:58:19,900 [MainThread  ] [INFO ]  Adding demand for t:-56
+2019-06-08 00:58:20,028 [MainThread  ] [INFO ]  Adding demand for cl:-56
+2019-06-08 00:58:20,054 [MainThread  ] [INFO ]  Adding demand for cs:-56
+2019-06-08 00:58:20,081 [MainThread  ] [INFO ]  Adding demand for t:-55
+2019-06-08 00:58:20,211 [MainThread  ] [INFO ]  Adding demand for cl:-55
+2019-06-08 00:58:20,238 [MainThread  ] [INFO ]  Adding demand for cs:-55
+2019-06-08 00:58:20,265 [MainThread  ] [INFO ]  Adding demand for t:-54
+2019-06-08 00:58:20,397 [MainThread  ] [INFO ]  Adding demand for cl:-54
+2019-06-08 00:58:20,425 [MainThread  ] [INFO ]  Adding demand for cs:-54
+2019-06-08 00:58:20,452 [MainThread  ] [INFO ]  Adding demand for t:-53
+2019-06-08 00:58:20,587 [MainThread  ] [INFO ]  Adding demand for cl:-53
+2019-06-08 00:58:20,615 [MainThread  ] [INFO ]  Adding demand for cs:-53
+2019-06-08 00:58:20,643 [MainThread  ] [INFO ]  Adding demand for t:-52
+2019-06-08 00:58:20,778 [MainThread  ] [INFO ]  Adding demand for cl:-52
+2019-06-08 00:58:20,806 [MainThread  ] [INFO ]  Adding demand for cs:-52
+2019-06-08 00:58:20,834 [MainThread  ] [INFO ]  Adding demand for t:-51
+2019-06-08 00:58:20,972 [MainThread  ] [INFO ]  Adding demand for cl:-51
+2019-06-08 00:58:21,000 [MainThread  ] [INFO ]  Adding demand for cs:-51
+2019-06-08 00:58:21,029 [MainThread  ] [INFO ]  Adding demand for t:-50
+2019-06-08 00:58:21,168 [MainThread  ] [INFO ]  Adding demand for cl:-50
+2019-06-08 00:58:21,196 [MainThread  ] [INFO ]  Adding demand for cs:-50
+2019-06-08 00:58:21,224 [MainThread  ] [INFO ]  Adding demand for t:-49
+2019-06-08 00:58:21,365 [MainThread  ] [INFO ]  Adding demand for cl:-49
+2019-06-08 00:58:21,393 [MainThread  ] [INFO ]  Adding demand for cs:-49
+2019-06-08 00:58:21,422 [MainThread  ] [INFO ]  Adding demand for t:-48
+2019-06-08 00:58:21,561 [MainThread  ] [INFO ]  Adding demand for cl:-48
+2019-06-08 00:58:21,590 [MainThread  ] [INFO ]  Adding demand for cs:-48
+2019-06-08 00:58:21,618 [MainThread  ] [INFO ]  Adding demand for t:-47
+2019-06-08 00:58:21,763 [MainThread  ] [INFO ]  Adding demand for cl:-47
+2019-06-08 00:58:21,792 [MainThread  ] [INFO ]  Adding demand for cs:-47
+2019-06-08 00:58:21,821 [MainThread  ] [INFO ]  Adding demand for t:-46
+2019-06-08 00:58:21,962 [MainThread  ] [INFO ]  Adding demand for cl:-46
+2019-06-08 00:58:21,990 [MainThread  ] [INFO ]  Adding demand for cs:-46
+2019-06-08 00:58:22,020 [MainThread  ] [INFO ]  Adding demand for t:-45
+2019-06-08 00:58:22,161 [MainThread  ] [INFO ]  Adding demand for cl:-45
+2019-06-08 00:58:22,190 [MainThread  ] [INFO ]  Adding demand for cs:-45
+2019-06-08 00:58:22,218 [MainThread  ] [INFO ]  Adding demand for t:-44
+2019-06-08 00:58:22,364 [MainThread  ] [INFO ]  Adding demand for cl:-44
+2019-06-08 00:58:22,393 [MainThread  ] [INFO ]  Adding demand for cs:-44
+2019-06-08 00:58:22,424 [MainThread  ] [INFO ]  Adding demand for t:-43
+2019-06-08 00:58:22,569 [MainThread  ] [INFO ]  Adding demand for cl:-43
+2019-06-08 00:58:22,597 [MainThread  ] [INFO ]  Adding demand for cs:-43
+2019-06-08 00:58:22,627 [MainThread  ] [INFO ]  Adding demand for t:-42
+2019-06-08 00:58:22,773 [MainThread  ] [INFO ]  Adding demand for cl:-42
+2019-06-08 00:58:22,803 [MainThread  ] [INFO ]  Adding demand for cs:-42
+2019-06-08 00:58:22,833 [MainThread  ] [INFO ]  Adding demand for t:-41
+2019-06-08 00:58:22,980 [MainThread  ] [INFO ]  Adding demand for cl:-41
+2019-06-08 00:58:23,009 [MainThread  ] [INFO ]  Adding demand for cs:-41
+2019-06-08 00:58:23,040 [MainThread  ] [INFO ]  Adding demand for t:-40
+2019-06-08 00:58:23,189 [MainThread  ] [INFO ]  Adding demand for cl:-40
+2019-06-08 00:58:23,219 [MainThread  ] [INFO ]  Adding demand for cs:-40
+2019-06-08 00:58:23,249 [MainThread  ] [INFO ]  Adding demand for t:-39
+2019-06-08 00:58:23,405 [MainThread  ] [INFO ]  Adding demand for cl:-39
+2019-06-08 00:58:23,436 [MainThread  ] [INFO ]  Adding demand for cs:-39
+2019-06-08 00:58:23,467 [MainThread  ] [INFO ]  Adding demand for t:-38
+2019-06-08 00:58:23,617 [MainThread  ] [INFO ]  Adding demand for cl:-38
+2019-06-08 00:58:23,648 [MainThread  ] [INFO ]  Adding demand for cs:-38
+2019-06-08 00:58:23,679 [MainThread  ] [INFO ]  Adding demand for t:-37
+2019-06-08 00:58:23,829 [MainThread  ] [INFO ]  Adding demand for cl:-37
+2019-06-08 00:58:23,859 [MainThread  ] [INFO ]  Adding demand for cs:-37
+2019-06-08 00:58:23,890 [MainThread  ] [INFO ]  Adding demand for t:-36
+2019-06-08 00:58:24,042 [MainThread  ] [INFO ]  Adding demand for cl:-36
+2019-06-08 00:58:24,073 [MainThread  ] [INFO ]  Adding demand for cs:-36
+2019-06-08 00:58:24,104 [MainThread  ] [INFO ]  Adding demand for t:-35
+2019-06-08 00:58:24,258 [MainThread  ] [INFO ]  Adding demand for cl:-35
+2019-06-08 00:58:24,289 [MainThread  ] [INFO ]  Adding demand for cs:-35
+2019-06-08 00:58:24,321 [MainThread  ] [INFO ]  Adding demand for t:-34
+2019-06-08 00:58:24,476 [MainThread  ] [INFO ]  Adding demand for cl:-34
+2019-06-08 00:58:24,507 [MainThread  ] [INFO ]  Adding demand for cs:-34
+2019-06-08 00:58:24,538 [MainThread  ] [INFO ]  Adding demand for t:-33
+2019-06-08 00:58:24,692 [MainThread  ] [INFO ]  Adding demand for cl:-33
+2019-06-08 00:58:24,724 [MainThread  ] [INFO ]  Adding demand for cs:-33
+2019-06-08 00:58:24,755 [MainThread  ] [INFO ]  Adding demand for t:-32
+2019-06-08 00:58:24,908 [MainThread  ] [INFO ]  Adding demand for cl:-32
+2019-06-08 00:58:24,939 [MainThread  ] [INFO ]  Adding demand for cs:-32
+2019-06-08 00:58:24,970 [MainThread  ] [INFO ]  Adding demand for t:-31
+2019-06-08 00:58:25,125 [MainThread  ] [INFO ]  Adding demand for cl:-31
+2019-06-08 00:58:25,157 [MainThread  ] [INFO ]  Adding demand for cs:-31
+2019-06-08 00:58:25,189 [MainThread  ] [INFO ]  Adding demand for t:-30
+2019-06-08 00:58:25,349 [MainThread  ] [INFO ]  Adding demand for cl:-30
+2019-06-08 00:58:25,391 [MainThread  ] [INFO ]  Adding demand for cs:-30
+2019-06-08 00:58:25,424 [MainThread  ] [INFO ]  Adding demand for t:-29
+2019-06-08 00:58:25,621 [MainThread  ] [INFO ]  Adding demand for cl:-29
+2019-06-08 00:58:25,653 [MainThread  ] [INFO ]  Adding demand for cs:-29
+2019-06-08 00:58:25,689 [MainThread  ] [INFO ]  Adding demand for t:-28
+2019-06-08 00:58:25,848 [MainThread  ] [INFO ]  Adding demand for cl:-28
+2019-06-08 00:58:25,890 [MainThread  ] [INFO ]  Adding demand for cs:-28
+2019-06-08 00:58:25,924 [MainThread  ] [INFO ]  Adding demand for t:-27
+2019-06-08 00:58:26,120 [MainThread  ] [INFO ]  Adding demand for cl:-27
+2019-06-08 00:58:26,163 [MainThread  ] [INFO ]  Adding demand for cs:-27
+2019-06-08 00:58:26,196 [MainThread  ] [INFO ]  Adding demand for t:-26
+2019-06-08 00:58:26,375 [MainThread  ] [INFO ]  Adding demand for cl:-26
+2019-06-08 00:58:26,411 [MainThread  ] [INFO ]  Adding demand for cs:-26
+2019-06-08 00:58:26,446 [MainThread  ] [INFO ]  Adding demand for t:-25
+2019-06-08 00:58:26,609 [MainThread  ] [INFO ]  Adding demand for cl:-25
+2019-06-08 00:58:26,643 [MainThread  ] [INFO ]  Adding demand for cs:-25
+2019-06-08 00:58:26,678 [MainThread  ] [INFO ]  Adding demand for t:-24
+2019-06-08 00:58:26,838 [MainThread  ] [INFO ]  Adding demand for cl:-24
+2019-06-08 00:58:26,872 [MainThread  ] [INFO ]  Adding demand for cs:-24
+2019-06-08 00:58:26,906 [MainThread  ] [INFO ]  Adding demand for t:-23
+2019-06-08 00:58:27,069 [MainThread  ] [INFO ]  Adding demand for cl:-23
+2019-06-08 00:58:27,113 [MainThread  ] [INFO ]  Adding demand for cs:-23
+2019-06-08 00:58:27,147 [MainThread  ] [INFO ]  Adding demand for t:-22
+2019-06-08 00:58:27,309 [MainThread  ] [INFO ]  Adding demand for cl:-22
+2019-06-08 00:58:27,343 [MainThread  ] [INFO ]  Adding demand for cs:-22
+2019-06-08 00:58:27,377 [MainThread  ] [INFO ]  Adding demand for t:-21
+2019-06-08 00:58:27,538 [MainThread  ] [INFO ]  Adding demand for cl:-21
+2019-06-08 00:58:27,575 [MainThread  ] [INFO ]  Adding demand for cs:-21
+2019-06-08 00:58:27,610 [MainThread  ] [INFO ]  Adding demand for t:-20
+2019-06-08 00:58:27,770 [MainThread  ] [INFO ]  Adding demand for cl:-20
+2019-06-08 00:58:27,815 [MainThread  ] [INFO ]  Adding demand for cs:-20
+2019-06-08 00:58:27,850 [MainThread  ] [INFO ]  Adding demand for t:-19
+2019-06-08 00:58:28,007 [MainThread  ] [INFO ]  Adding demand for cl:-19
+2019-06-08 00:58:28,053 [MainThread  ] [INFO ]  Adding demand for cs:-19
+2019-06-08 00:58:28,088 [MainThread  ] [INFO ]  Adding demand for t:-18
+2019-06-08 00:58:28,245 [MainThread  ] [INFO ]  Adding demand for cl:-18
+2019-06-08 00:58:28,290 [MainThread  ] [INFO ]  Adding demand for cs:-18
+2019-06-08 00:58:28,325 [MainThread  ] [INFO ]  Adding demand for t:-17
+2019-06-08 00:58:28,486 [MainThread  ] [INFO ]  Adding demand for cl:-17
+2019-06-08 00:58:28,527 [MainThread  ] [INFO ]  Adding demand for cs:-17
+2019-06-08 00:58:28,562 [MainThread  ] [INFO ]  Adding demand for t:-16
+2019-06-08 00:58:28,718 [MainThread  ] [INFO ]  Adding demand for cl:-16
+2019-06-08 00:58:28,756 [MainThread  ] [INFO ]  Adding demand for cs:-16
+2019-06-08 00:58:28,792 [MainThread  ] [INFO ]  Adding demand for t:-15
+2019-06-08 00:58:28,948 [MainThread  ] [INFO ]  Adding demand for cl:-15
+2019-06-08 00:58:28,992 [MainThread  ] [INFO ]  Adding demand for cs:-15
+2019-06-08 00:58:29,029 [MainThread  ] [INFO ]  Adding demand for t:-14
+2019-06-08 00:58:29,184 [MainThread  ] [INFO ]  Adding demand for cl:-14
+2019-06-08 00:58:29,226 [MainThread  ] [INFO ]  Adding demand for cs:-14
+2019-06-08 00:58:29,263 [MainThread  ] [INFO ]  Adding demand for t:-13
+2019-06-08 00:58:29,416 [MainThread  ] [INFO ]  Adding demand for cl:-13
+2019-06-08 00:58:29,456 [MainThread  ] [INFO ]  Adding demand for cs:-13
+2019-06-08 00:58:29,503 [MainThread  ] [INFO ]  Adding demand for t:-12
+2019-06-08 00:58:29,655 [MainThread  ] [INFO ]  Adding demand for cl:-12
+2019-06-08 00:58:29,692 [MainThread  ] [INFO ]  Adding demand for cs:-12
+2019-06-08 00:58:29,734 [MainThread  ] [INFO ]  Adding demand for t:-11
+2019-06-08 00:58:29,885 [MainThread  ] [INFO ]  Adding demand for cl:-11
+2019-06-08 00:58:29,928 [MainThread  ] [INFO ]  Adding demand for cs:-11
+2019-06-08 00:58:29,976 [MainThread  ] [INFO ]  Adding demand for t:-10
+2019-06-08 00:58:30,130 [MainThread  ] [INFO ]  Adding demand for cl:-10
+2019-06-08 00:58:30,168 [MainThread  ] [INFO ]  Adding demand for cs:-10
+2019-06-08 00:58:30,206 [MainThread  ] [INFO ]  Adding demand for t:-9
+2019-06-08 00:58:30,388 [MainThread  ] [INFO ]  Adding demand for cl:-9
+2019-06-08 00:58:30,432 [MainThread  ] [INFO ]  Adding demand for cs:-9
+2019-06-08 00:58:30,474 [MainThread  ] [INFO ]  Adding demand for t:-8
+2019-06-08 00:58:30,623 [MainThread  ] [INFO ]  Adding demand for cl:-8
+2019-06-08 00:58:30,666 [MainThread  ] [INFO ]  Adding demand for cs:-8
+2019-06-08 00:58:30,706 [MainThread  ] [INFO ]  Adding demand for t:-7
+2019-06-08 00:58:30,856 [MainThread  ] [INFO ]  Adding demand for cl:-7
+2019-06-08 00:58:30,893 [MainThread  ] [INFO ]  Adding demand for cs:-7
+2019-06-08 00:58:30,941 [MainThread  ] [INFO ]  Adding demand for t:-6
+2019-06-08 00:58:31,095 [MainThread  ] [INFO ]  Adding demand for cl:-6
+2019-06-08 00:58:31,134 [MainThread  ] [INFO ]  Adding demand for cs:-6
+2019-06-08 00:58:31,172 [MainThread  ] [INFO ]  Adding demand for t:-5
+2019-06-08 00:58:31,321 [MainThread  ] [INFO ]  Adding demand for cl:-5
+2019-06-08 00:58:31,359 [MainThread  ] [INFO ]  Adding demand for cs:-5
+2019-06-08 00:58:31,396 [MainThread  ] [INFO ]  Adding demand for t:-4
+2019-06-08 00:58:31,544 [MainThread  ] [INFO ]  Adding demand for cl:-4
+2019-06-08 00:58:31,589 [MainThread  ] [INFO ]  Adding demand for cs:-4
+2019-06-08 00:58:31,627 [MainThread  ] [INFO ]  Adding demand for t:-3
+2019-06-08 00:58:31,778 [MainThread  ] [INFO ]  Adding demand for cl:-3
+2019-06-08 00:58:31,820 [MainThread  ] [INFO ]  Adding demand for cs:-3
+2019-06-08 00:58:31,861 [MainThread  ] [INFO ]  Adding demand for t:-2
+2019-06-08 00:58:32,013 [MainThread  ] [INFO ]  Adding demand for cl:-2
+2019-06-08 00:58:32,053 [MainThread  ] [INFO ]  Adding demand for cs:-2
+2019-06-08 00:58:32,099 [MainThread  ] [INFO ]  Adding demand for t:-1
+2019-06-08 00:58:32,262 [MainThread  ] [INFO ]  Adding demand for cl:-1
+2019-06-08 00:58:32,307 [MainThread  ] [INFO ]  Adding demand for cs:-1
+2019-06-08 00:58:32,346 [MainThread  ] [INFO ]  Adding demand for t:0
+2019-06-08 00:58:32,562 [MainThread  ] [INFO ]  Adding demand for cl:0
+2019-06-08 00:58:32,601 [MainThread  ] [INFO ]  Adding demand for cs:0
+2019-06-08 00:58:32,646 [MainThread  ] [INFO ]  Adding statistics
+2019-06-08 00:58:32,646 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: mean
+2019-06-08 00:58:32,686 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: median
+2019-06-08 00:58:32,733 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: max
+2019-06-08 00:58:32,772 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: min
+2019-06-08 00:58:32,823 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: std
+2019-06-08 00:58:32,862 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: mean
+2019-06-08 00:58:34,572 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: median
+2019-06-08 00:58:36,414 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: max
+2019-06-08 00:58:38,137 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: min
+2019-06-08 00:58:39,865 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: std
+2019-06-08 00:58:41,601 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: mean
+2019-06-08 00:58:41,643 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: median
+2019-06-08 00:58:41,683 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: max
+2019-06-08 00:58:41,720 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: min
+2019-06-08 00:58:41,758 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: std
+2019-06-08 00:58:41,797 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: mean
+2019-06-08 00:58:41,836 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: median
+2019-06-08 00:58:41,875 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: max
+2019-06-08 00:58:41,914 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: min
+2019-06-08 00:58:41,953 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: std
+2019-06-08 00:58:41,993 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: mean
+2019-06-08 00:58:42,448 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: median
+2019-06-08 00:58:43,026 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: max
+2019-06-08 00:58:43,489 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: min
+2019-06-08 00:58:43,950 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: std
+2019-06-08 00:58:44,419 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: mean
+2019-06-08 00:58:44,461 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: median
+2019-06-08 00:58:44,503 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: max
+2019-06-08 00:58:44,543 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: min
+2019-06-08 00:58:44,582 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: std
+2019-06-08 00:58:44,621 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: mean
+2019-06-08 00:58:44,646 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: median
+2019-06-08 00:58:44,669 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: max
+2019-06-08 00:58:44,692 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: min
+2019-06-08 00:58:44,718 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: std
+2019-06-08 00:58:44,747 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: mean
+2019-06-08 00:58:45,290 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: median
+2019-06-08 00:58:45,957 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: max
+2019-06-08 00:58:46,527 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: min
+2019-06-08 00:58:47,088 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: std
+2019-06-08 00:58:47,663 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: mean
+2019-06-08 00:58:47,697 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: median
+2019-06-08 00:58:47,729 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: max
+2019-06-08 00:58:47,759 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: min
+2019-06-08 00:58:47,785 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: std
+2019-06-08 00:58:47,817 [MainThread  ] [INFO ]  Generating holt
+2019-06-08 01:10:56,164 [MainThread  ] [INFO ]  Loading required files
+2019-06-08 01:11:03,563 [MainThread  ] [INFO ]  Making testset indices
+2019-06-08 01:11:06,145 [MainThread  ] [INFO ]  Length of df = 1301
+2019-06-08 01:11:06,148 [MainThread  ] [INFO ]  Adding demand
+2019-06-08 01:11:06,148 [MainThread  ] [INFO ]  Adding demand for t:-96
+2019-06-08 01:11:06,281 [MainThread  ] [INFO ]  Adding demand for cl:-96
+2019-06-08 01:11:06,301 [MainThread  ] [INFO ]  Adding demand for cs:-96
+2019-06-08 01:11:06,321 [MainThread  ] [INFO ]  Adding demand for t:-95
+2019-06-08 01:11:06,448 [MainThread  ] [INFO ]  Adding demand for cl:-95
+2019-06-08 01:11:06,467 [MainThread  ] [INFO ]  Adding demand for cs:-95
+2019-06-08 01:11:06,486 [MainThread  ] [INFO ]  Adding demand for t:-94
+2019-06-08 01:11:06,603 [MainThread  ] [INFO ]  Adding demand for cl:-94
+2019-06-08 01:11:06,623 [MainThread  ] [INFO ]  Adding demand for cs:-94
+2019-06-08 01:11:06,643 [MainThread  ] [INFO ]  Adding demand for t:-93
+2019-06-08 01:11:06,764 [MainThread  ] [INFO ]  Adding demand for cl:-93
+2019-06-08 01:11:06,785 [MainThread  ] [INFO ]  Adding demand for cs:-93
+2019-06-08 01:11:06,805 [MainThread  ] [INFO ]  Adding demand for t:-92
+2019-06-08 01:11:06,920 [MainThread  ] [INFO ]  Adding demand for cl:-92
+2019-06-08 01:11:06,940 [MainThread  ] [INFO ]  Adding demand for cs:-92
+2019-06-08 01:11:06,960 [MainThread  ] [INFO ]  Adding demand for t:-91
+2019-06-08 01:11:07,068 [MainThread  ] [INFO ]  Adding demand for cl:-91
+2019-06-08 01:11:07,088 [MainThread  ] [INFO ]  Adding demand for cs:-91
+2019-06-08 01:11:07,110 [MainThread  ] [INFO ]  Adding demand for t:-90
+2019-06-08 01:11:07,223 [MainThread  ] [INFO ]  Adding demand for cl:-90
+2019-06-08 01:11:07,243 [MainThread  ] [INFO ]  Adding demand for cs:-90
+2019-06-08 01:11:07,264 [MainThread  ] [INFO ]  Adding demand for t:-89
+2019-06-08 01:11:07,383 [MainThread  ] [INFO ]  Adding demand for cl:-89
+2019-06-08 01:11:07,403 [MainThread  ] [INFO ]  Adding demand for cs:-89
+2019-06-08 01:11:07,425 [MainThread  ] [INFO ]  Adding demand for t:-88
+2019-06-08 01:11:07,529 [MainThread  ] [INFO ]  Adding demand for cl:-88
+2019-06-08 01:11:07,549 [MainThread  ] [INFO ]  Adding demand for cs:-88
+2019-06-08 01:11:07,569 [MainThread  ] [INFO ]  Adding demand for t:-87
+2019-06-08 01:11:07,670 [MainThread  ] [INFO ]  Adding demand for cl:-87
+2019-06-08 01:11:07,691 [MainThread  ] [INFO ]  Adding demand for cs:-87
+2019-06-08 01:11:07,712 [MainThread  ] [INFO ]  Adding demand for t:-86
+2019-06-08 01:11:07,812 [MainThread  ] [INFO ]  Adding demand for cl:-86
+2019-06-08 01:11:07,833 [MainThread  ] [INFO ]  Adding demand for cs:-86
+2019-06-08 01:11:07,855 [MainThread  ] [INFO ]  Adding demand for t:-85
+2019-06-08 01:11:07,955 [MainThread  ] [INFO ]  Adding demand for cl:-85
+2019-06-08 01:11:07,976 [MainThread  ] [INFO ]  Adding demand for cs:-85
+2019-06-08 01:11:07,997 [MainThread  ] [INFO ]  Adding demand for t:-84
+2019-06-08 01:11:08,096 [MainThread  ] [INFO ]  Adding demand for cl:-84
+2019-06-08 01:11:08,118 [MainThread  ] [INFO ]  Adding demand for cs:-84
+2019-06-08 01:11:08,138 [MainThread  ] [INFO ]  Adding demand for t:-83
+2019-06-08 01:11:08,235 [MainThread  ] [INFO ]  Adding demand for cl:-83
+2019-06-08 01:11:08,256 [MainThread  ] [INFO ]  Adding demand for cs:-83
+2019-06-08 01:11:08,277 [MainThread  ] [INFO ]  Adding demand for t:-82
+2019-06-08 01:11:08,372 [MainThread  ] [INFO ]  Adding demand for cl:-82
+2019-06-08 01:11:08,393 [MainThread  ] [INFO ]  Adding demand for cs:-82
+2019-06-08 01:11:08,415 [MainThread  ] [INFO ]  Adding demand for t:-81
+2019-06-08 01:11:08,512 [MainThread  ] [INFO ]  Adding demand for cl:-81
+2019-06-08 01:11:08,533 [MainThread  ] [INFO ]  Adding demand for cs:-81
+2019-06-08 01:11:08,555 [MainThread  ] [INFO ]  Adding demand for t:-80
+2019-06-08 01:11:08,649 [MainThread  ] [INFO ]  Adding demand for cl:-80
+2019-06-08 01:11:08,670 [MainThread  ] [INFO ]  Adding demand for cs:-80
+2019-06-08 01:11:08,690 [MainThread  ] [INFO ]  Adding demand for t:-79
+2019-06-08 01:11:08,786 [MainThread  ] [INFO ]  Adding demand for cl:-79
+2019-06-08 01:11:08,807 [MainThread  ] [INFO ]  Adding demand for cs:-79
+2019-06-08 01:11:08,829 [MainThread  ] [INFO ]  Adding demand for t:-78
+2019-06-08 01:11:08,925 [MainThread  ] [INFO ]  Adding demand for cl:-78
+2019-06-08 01:11:08,948 [MainThread  ] [INFO ]  Adding demand for cs:-78
+2019-06-08 01:11:08,974 [MainThread  ] [INFO ]  Adding demand for t:-77
+2019-06-08 01:11:09,075 [MainThread  ] [INFO ]  Adding demand for cl:-77
+2019-06-08 01:11:09,099 [MainThread  ] [INFO ]  Adding demand for cs:-77
+2019-06-08 01:11:09,123 [MainThread  ] [INFO ]  Adding demand for t:-76
+2019-06-08 01:11:09,223 [MainThread  ] [INFO ]  Adding demand for cl:-76
+2019-06-08 01:11:09,245 [MainThread  ] [INFO ]  Adding demand for cs:-76
+2019-06-08 01:11:09,267 [MainThread  ] [INFO ]  Adding demand for t:-75
+2019-06-08 01:11:09,368 [MainThread  ] [INFO ]  Adding demand for cl:-75
+2019-06-08 01:11:09,393 [MainThread  ] [INFO ]  Adding demand for cs:-75
+2019-06-08 01:11:09,418 [MainThread  ] [INFO ]  Adding demand for t:-74
+2019-06-08 01:11:09,522 [MainThread  ] [INFO ]  Adding demand for cl:-74
+2019-06-08 01:11:09,545 [MainThread  ] [INFO ]  Adding demand for cs:-74
+2019-06-08 01:11:09,567 [MainThread  ] [INFO ]  Adding demand for t:-73
+2019-06-08 01:11:09,668 [MainThread  ] [INFO ]  Adding demand for cl:-73
+2019-06-08 01:11:09,690 [MainThread  ] [INFO ]  Adding demand for cs:-73
+2019-06-08 01:11:09,714 [MainThread  ] [INFO ]  Adding demand for t:-72
+2019-06-08 01:11:09,822 [MainThread  ] [INFO ]  Adding demand for cl:-72
+2019-06-08 01:11:09,845 [MainThread  ] [INFO ]  Adding demand for cs:-72
+2019-06-08 01:11:09,869 [MainThread  ] [INFO ]  Adding demand for t:-71
+2019-06-08 01:11:09,976 [MainThread  ] [INFO ]  Adding demand for cl:-71
+2019-06-08 01:11:10,000 [MainThread  ] [INFO ]  Adding demand for cs:-71
+2019-06-08 01:11:10,024 [MainThread  ] [INFO ]  Adding demand for t:-70
+2019-06-08 01:11:10,132 [MainThread  ] [INFO ]  Adding demand for cl:-70
+2019-06-08 01:11:10,154 [MainThread  ] [INFO ]  Adding demand for cs:-70
+2019-06-08 01:11:10,178 [MainThread  ] [INFO ]  Adding demand for t:-69
+2019-06-08 01:11:10,284 [MainThread  ] [INFO ]  Adding demand for cl:-69
+2019-06-08 01:11:10,306 [MainThread  ] [INFO ]  Adding demand for cs:-69
+2019-06-08 01:11:10,329 [MainThread  ] [INFO ]  Adding demand for t:-68
+2019-06-08 01:11:10,435 [MainThread  ] [INFO ]  Adding demand for cl:-68
+2019-06-08 01:11:10,458 [MainThread  ] [INFO ]  Adding demand for cs:-68
+2019-06-08 01:11:10,482 [MainThread  ] [INFO ]  Adding demand for t:-67
+2019-06-08 01:11:10,589 [MainThread  ] [INFO ]  Adding demand for cl:-67
+2019-06-08 01:11:10,613 [MainThread  ] [INFO ]  Adding demand for cs:-67
+2019-06-08 01:11:10,637 [MainThread  ] [INFO ]  Adding demand for t:-66
+2019-06-08 01:11:10,746 [MainThread  ] [INFO ]  Adding demand for cl:-66
+2019-06-08 01:11:10,770 [MainThread  ] [INFO ]  Adding demand for cs:-66
+2019-06-08 01:11:10,792 [MainThread  ] [INFO ]  Adding demand for t:-65
+2019-06-08 01:11:10,906 [MainThread  ] [INFO ]  Adding demand for cl:-65
+2019-06-08 01:11:10,932 [MainThread  ] [INFO ]  Adding demand for cs:-65
+2019-06-08 01:11:10,959 [MainThread  ] [INFO ]  Adding demand for t:-64
+2019-06-08 01:11:11,084 [MainThread  ] [INFO ]  Adding demand for cl:-64
+2019-06-08 01:11:11,111 [MainThread  ] [INFO ]  Adding demand for cs:-64
+2019-06-08 01:11:11,137 [MainThread  ] [INFO ]  Adding demand for t:-63
+2019-06-08 01:11:11,254 [MainThread  ] [INFO ]  Adding demand for cl:-63
+2019-06-08 01:11:11,280 [MainThread  ] [INFO ]  Adding demand for cs:-63
+2019-06-08 01:11:11,306 [MainThread  ] [INFO ]  Adding demand for t:-62
+2019-06-08 01:11:11,426 [MainThread  ] [INFO ]  Adding demand for cl:-62
+2019-06-08 01:11:11,456 [MainThread  ] [INFO ]  Adding demand for cs:-62
+2019-06-08 01:11:11,484 [MainThread  ] [INFO ]  Adding demand for t:-61
+2019-06-08 01:11:11,613 [MainThread  ] [INFO ]  Adding demand for cl:-61
+2019-06-08 01:11:11,639 [MainThread  ] [INFO ]  Adding demand for cs:-61
+2019-06-08 01:11:11,666 [MainThread  ] [INFO ]  Adding demand for t:-60
+2019-06-08 01:11:11,789 [MainThread  ] [INFO ]  Adding demand for cl:-60
+2019-06-08 01:11:11,815 [MainThread  ] [INFO ]  Adding demand for cs:-60
+2019-06-08 01:11:11,841 [MainThread  ] [INFO ]  Adding demand for t:-59
+2019-06-08 01:11:11,969 [MainThread  ] [INFO ]  Adding demand for cl:-59
+2019-06-08 01:11:11,996 [MainThread  ] [INFO ]  Adding demand for cs:-59
+2019-06-08 01:11:12,024 [MainThread  ] [INFO ]  Adding demand for t:-58
+2019-06-08 01:11:12,153 [MainThread  ] [INFO ]  Adding demand for cl:-58
+2019-06-08 01:11:12,180 [MainThread  ] [INFO ]  Adding demand for cs:-58
+2019-06-08 01:11:12,208 [MainThread  ] [INFO ]  Adding demand for t:-57
+2019-06-08 01:11:12,346 [MainThread  ] [INFO ]  Adding demand for cl:-57
+2019-06-08 01:11:12,376 [MainThread  ] [INFO ]  Adding demand for cs:-57
+2019-06-08 01:11:12,405 [MainThread  ] [INFO ]  Adding demand for t:-56
+2019-06-08 01:11:12,549 [MainThread  ] [INFO ]  Adding demand for cl:-56
+2019-06-08 01:11:12,582 [MainThread  ] [INFO ]  Adding demand for cs:-56
+2019-06-08 01:11:12,610 [MainThread  ] [INFO ]  Adding demand for t:-55
+2019-06-08 01:11:12,745 [MainThread  ] [INFO ]  Adding demand for cl:-55
+2019-06-08 01:11:12,772 [MainThread  ] [INFO ]  Adding demand for cs:-55
+2019-06-08 01:11:12,799 [MainThread  ] [INFO ]  Adding demand for t:-54
+2019-06-08 01:11:12,932 [MainThread  ] [INFO ]  Adding demand for cl:-54
+2019-06-08 01:11:12,959 [MainThread  ] [INFO ]  Adding demand for cs:-54
+2019-06-08 01:11:12,986 [MainThread  ] [INFO ]  Adding demand for t:-53
+2019-06-08 01:11:13,124 [MainThread  ] [INFO ]  Adding demand for cl:-53
+2019-06-08 01:11:13,152 [MainThread  ] [INFO ]  Adding demand for cs:-53
+2019-06-08 01:11:13,179 [MainThread  ] [INFO ]  Adding demand for t:-52
+2019-06-08 01:11:13,318 [MainThread  ] [INFO ]  Adding demand for cl:-52
+2019-06-08 01:11:13,345 [MainThread  ] [INFO ]  Adding demand for cs:-52
+2019-06-08 01:11:13,372 [MainThread  ] [INFO ]  Adding demand for t:-51
+2019-06-08 01:11:13,513 [MainThread  ] [INFO ]  Adding demand for cl:-51
+2019-06-08 01:11:13,541 [MainThread  ] [INFO ]  Adding demand for cs:-51
+2019-06-08 01:11:13,571 [MainThread  ] [INFO ]  Adding demand for t:-50
+2019-06-08 01:11:13,713 [MainThread  ] [INFO ]  Adding demand for cl:-50
+2019-06-08 01:11:13,744 [MainThread  ] [INFO ]  Adding demand for cs:-50
+2019-06-08 01:11:13,773 [MainThread  ] [INFO ]  Adding demand for t:-49
+2019-06-08 01:11:13,919 [MainThread  ] [INFO ]  Adding demand for cl:-49
+2019-06-08 01:11:13,948 [MainThread  ] [INFO ]  Adding demand for cs:-49
+2019-06-08 01:11:13,977 [MainThread  ] [INFO ]  Adding demand for t:-48
+2019-06-08 01:11:14,124 [MainThread  ] [INFO ]  Adding demand for cl:-48
+2019-06-08 01:11:14,153 [MainThread  ] [INFO ]  Adding demand for cs:-48
+2019-06-08 01:11:14,182 [MainThread  ] [INFO ]  Adding demand for t:-47
+2019-06-08 01:11:14,327 [MainThread  ] [INFO ]  Adding demand for cl:-47
+2019-06-08 01:11:14,356 [MainThread  ] [INFO ]  Adding demand for cs:-47
+2019-06-08 01:11:14,385 [MainThread  ] [INFO ]  Adding demand for t:-46
+2019-06-08 01:11:14,531 [MainThread  ] [INFO ]  Adding demand for cl:-46
+2019-06-08 01:11:14,562 [MainThread  ] [INFO ]  Adding demand for cs:-46
+2019-06-08 01:11:14,590 [MainThread  ] [INFO ]  Adding demand for t:-45
+2019-06-08 01:11:14,735 [MainThread  ] [INFO ]  Adding demand for cl:-45
+2019-06-08 01:11:14,764 [MainThread  ] [INFO ]  Adding demand for cs:-45
+2019-06-08 01:11:14,795 [MainThread  ] [INFO ]  Adding demand for t:-44
+2019-06-08 01:11:14,955 [MainThread  ] [INFO ]  Adding demand for cl:-44
+2019-06-08 01:11:14,987 [MainThread  ] [INFO ]  Adding demand for cs:-44
+2019-06-08 01:11:15,017 [MainThread  ] [INFO ]  Adding demand for t:-43
+2019-06-08 01:11:15,169 [MainThread  ] [INFO ]  Adding demand for cl:-43
+2019-06-08 01:11:15,199 [MainThread  ] [INFO ]  Adding demand for cs:-43
+2019-06-08 01:11:15,230 [MainThread  ] [INFO ]  Adding demand for t:-42
+2019-06-08 01:11:15,381 [MainThread  ] [INFO ]  Adding demand for cl:-42
+2019-06-08 01:11:15,411 [MainThread  ] [INFO ]  Adding demand for cs:-42
+2019-06-08 01:11:15,443 [MainThread  ] [INFO ]  Adding demand for t:-41
+2019-06-08 01:11:15,608 [MainThread  ] [INFO ]  Adding demand for cl:-41
+2019-06-08 01:11:15,639 [MainThread  ] [INFO ]  Adding demand for cs:-41
+2019-06-08 01:11:15,669 [MainThread  ] [INFO ]  Adding demand for t:-40
+2019-06-08 01:11:15,819 [MainThread  ] [INFO ]  Adding demand for cl:-40
+2019-06-08 01:11:15,849 [MainThread  ] [INFO ]  Adding demand for cs:-40
+2019-06-08 01:11:15,880 [MainThread  ] [INFO ]  Adding demand for t:-39
+2019-06-08 01:11:16,051 [MainThread  ] [INFO ]  Adding demand for cl:-39
+2019-06-08 01:11:16,081 [MainThread  ] [INFO ]  Adding demand for cs:-39
+2019-06-08 01:11:16,111 [MainThread  ] [INFO ]  Adding demand for t:-38
+2019-06-08 01:11:16,264 [MainThread  ] [INFO ]  Adding demand for cl:-38
+2019-06-08 01:11:16,295 [MainThread  ] [INFO ]  Adding demand for cs:-38
+2019-06-08 01:11:16,325 [MainThread  ] [INFO ]  Adding demand for t:-37
+2019-06-08 01:11:16,486 [MainThread  ] [INFO ]  Adding demand for cl:-37
+2019-06-08 01:11:16,517 [MainThread  ] [INFO ]  Adding demand for cs:-37
+2019-06-08 01:11:16,548 [MainThread  ] [INFO ]  Adding demand for t:-36
+2019-06-08 01:11:16,703 [MainThread  ] [INFO ]  Adding demand for cl:-36
+2019-06-08 01:11:16,733 [MainThread  ] [INFO ]  Adding demand for cs:-36
+2019-06-08 01:11:16,763 [MainThread  ] [INFO ]  Adding demand for t:-35
+2019-06-08 01:11:16,920 [MainThread  ] [INFO ]  Adding demand for cl:-35
+2019-06-08 01:11:16,951 [MainThread  ] [INFO ]  Adding demand for cs:-35
+2019-06-08 01:11:16,981 [MainThread  ] [INFO ]  Adding demand for t:-34
+2019-06-08 01:11:17,137 [MainThread  ] [INFO ]  Adding demand for cl:-34
+2019-06-08 01:11:17,168 [MainThread  ] [INFO ]  Adding demand for cs:-34
+2019-06-08 01:11:17,199 [MainThread  ] [INFO ]  Adding demand for t:-33
+2019-06-08 01:11:17,357 [MainThread  ] [INFO ]  Adding demand for cl:-33
+2019-06-08 01:11:17,389 [MainThread  ] [INFO ]  Adding demand for cs:-33
+2019-06-08 01:11:17,420 [MainThread  ] [INFO ]  Adding demand for t:-32
+2019-06-08 01:11:17,576 [MainThread  ] [INFO ]  Adding demand for cl:-32
+2019-06-08 01:11:17,607 [MainThread  ] [INFO ]  Adding demand for cs:-32
+2019-06-08 01:11:17,639 [MainThread  ] [INFO ]  Adding demand for t:-31
+2019-06-08 01:11:17,794 [MainThread  ] [INFO ]  Adding demand for cl:-31
+2019-06-08 01:11:17,826 [MainThread  ] [INFO ]  Adding demand for cs:-31
+2019-06-08 01:11:17,858 [MainThread  ] [INFO ]  Adding demand for t:-30
+2019-06-08 01:11:18,022 [MainThread  ] [INFO ]  Adding demand for cl:-30
+2019-06-08 01:11:18,061 [MainThread  ] [INFO ]  Adding demand for cs:-30
+2019-06-08 01:11:18,097 [MainThread  ] [INFO ]  Adding demand for t:-29
+2019-06-08 01:11:18,269 [MainThread  ] [INFO ]  Adding demand for cl:-29
+2019-06-08 01:11:18,302 [MainThread  ] [INFO ]  Adding demand for cs:-29
+2019-06-08 01:11:18,335 [MainThread  ] [INFO ]  Adding demand for t:-28
+2019-06-08 01:11:18,498 [MainThread  ] [INFO ]  Adding demand for cl:-28
+2019-06-08 01:11:18,540 [MainThread  ] [INFO ]  Adding demand for cs:-28
+2019-06-08 01:11:18,582 [MainThread  ] [INFO ]  Adding demand for t:-27
+2019-06-08 01:11:18,744 [MainThread  ] [INFO ]  Adding demand for cl:-27
+2019-06-08 01:11:18,785 [MainThread  ] [INFO ]  Adding demand for cs:-27
+2019-06-08 01:11:18,818 [MainThread  ] [INFO ]  Adding demand for t:-26
+2019-06-08 01:11:18,984 [MainThread  ] [INFO ]  Adding demand for cl:-26
+2019-06-08 01:11:19,023 [MainThread  ] [INFO ]  Adding demand for cs:-26
+2019-06-08 01:11:19,060 [MainThread  ] [INFO ]  Adding demand for t:-25
+2019-06-08 01:11:19,231 [MainThread  ] [INFO ]  Adding demand for cl:-25
+2019-06-08 01:11:19,265 [MainThread  ] [INFO ]  Adding demand for cs:-25
+2019-06-08 01:11:19,305 [MainThread  ] [INFO ]  Adding demand for t:-24
+2019-06-08 01:11:19,472 [MainThread  ] [INFO ]  Adding demand for cl:-24
+2019-06-08 01:11:19,509 [MainThread  ] [INFO ]  Adding demand for cs:-24
+2019-06-08 01:11:19,543 [MainThread  ] [INFO ]  Adding demand for t:-23
+2019-06-08 01:11:19,706 [MainThread  ] [INFO ]  Adding demand for cl:-23
+2019-06-08 01:11:19,741 [MainThread  ] [INFO ]  Adding demand for cs:-23
+2019-06-08 01:11:19,783 [MainThread  ] [INFO ]  Adding demand for t:-22
+2019-06-08 01:11:19,956 [MainThread  ] [INFO ]  Adding demand for cl:-22
+2019-06-08 01:11:19,991 [MainThread  ] [INFO ]  Adding demand for cs:-22
+2019-06-08 01:11:20,034 [MainThread  ] [INFO ]  Adding demand for t:-21
+2019-06-08 01:11:20,205 [MainThread  ] [INFO ]  Adding demand for cl:-21
+2019-06-08 01:11:20,243 [MainThread  ] [INFO ]  Adding demand for cs:-21
+2019-06-08 01:11:20,280 [MainThread  ] [INFO ]  Adding demand for t:-20
+2019-06-08 01:11:20,454 [MainThread  ] [INFO ]  Adding demand for cl:-20
+2019-06-08 01:11:20,494 [MainThread  ] [INFO ]  Adding demand for cs:-20
+2019-06-08 01:11:20,529 [MainThread  ] [INFO ]  Adding demand for t:-19
+2019-06-08 01:11:20,689 [MainThread  ] [INFO ]  Adding demand for cl:-19
+2019-06-08 01:11:20,726 [MainThread  ] [INFO ]  Adding demand for cs:-19
+2019-06-08 01:11:20,770 [MainThread  ] [INFO ]  Adding demand for t:-18
+2019-06-08 01:11:20,941 [MainThread  ] [INFO ]  Adding demand for cl:-18
+2019-06-08 01:11:20,979 [MainThread  ] [INFO ]  Adding demand for cs:-18
+2019-06-08 01:11:21,014 [MainThread  ] [INFO ]  Adding demand for t:-17
+2019-06-08 01:11:21,176 [MainThread  ] [INFO ]  Adding demand for cl:-17
+2019-06-08 01:11:21,218 [MainThread  ] [INFO ]  Adding demand for cs:-17
+2019-06-08 01:11:21,253 [MainThread  ] [INFO ]  Adding demand for t:-16
+2019-06-08 01:11:21,411 [MainThread  ] [INFO ]  Adding demand for cl:-16
+2019-06-08 01:11:21,456 [MainThread  ] [INFO ]  Adding demand for cs:-16
+2019-06-08 01:11:21,501 [MainThread  ] [INFO ]  Adding demand for t:-15
+2019-06-08 01:11:21,658 [MainThread  ] [INFO ]  Adding demand for cl:-15
+2019-06-08 01:11:21,700 [MainThread  ] [INFO ]  Adding demand for cs:-15
+2019-06-08 01:11:21,735 [MainThread  ] [INFO ]  Adding demand for t:-14
+2019-06-08 01:11:21,889 [MainThread  ] [INFO ]  Adding demand for cl:-14
+2019-06-08 01:11:21,938 [MainThread  ] [INFO ]  Adding demand for cs:-14
+2019-06-08 01:11:21,984 [MainThread  ] [INFO ]  Adding demand for t:-13
+2019-06-08 01:11:22,144 [MainThread  ] [INFO ]  Adding demand for cl:-13
+2019-06-08 01:11:22,185 [MainThread  ] [INFO ]  Adding demand for cs:-13
+2019-06-08 01:11:22,223 [MainThread  ] [INFO ]  Adding demand for t:-12
+2019-06-08 01:11:22,380 [MainThread  ] [INFO ]  Adding demand for cl:-12
+2019-06-08 01:11:22,415 [MainThread  ] [INFO ]  Adding demand for cs:-12
+2019-06-08 01:11:22,454 [MainThread  ] [INFO ]  Adding demand for t:-11
+2019-06-08 01:11:22,612 [MainThread  ] [INFO ]  Adding demand for cl:-11
+2019-06-08 01:11:22,649 [MainThread  ] [INFO ]  Adding demand for cs:-11
+2019-06-08 01:11:22,685 [MainThread  ] [INFO ]  Adding demand for t:-10
+2019-06-08 01:11:22,840 [MainThread  ] [INFO ]  Adding demand for cl:-10
+2019-06-08 01:11:22,884 [MainThread  ] [INFO ]  Adding demand for cs:-10
+2019-06-08 01:11:22,930 [MainThread  ] [INFO ]  Adding demand for t:-9
+2019-06-08 01:11:23,086 [MainThread  ] [INFO ]  Adding demand for cl:-9
+2019-06-08 01:11:23,125 [MainThread  ] [INFO ]  Adding demand for cs:-9
+2019-06-08 01:11:23,169 [MainThread  ] [INFO ]  Adding demand for t:-8
+2019-06-08 01:11:23,332 [MainThread  ] [INFO ]  Adding demand for cl:-8
+2019-06-08 01:11:23,374 [MainThread  ] [INFO ]  Adding demand for cs:-8
+2019-06-08 01:11:23,411 [MainThread  ] [INFO ]  Adding demand for t:-7
+2019-06-08 01:11:23,562 [MainThread  ] [INFO ]  Adding demand for cl:-7
+2019-06-08 01:11:23,602 [MainThread  ] [INFO ]  Adding demand for cs:-7
+2019-06-08 01:11:23,640 [MainThread  ] [INFO ]  Adding demand for t:-6
+2019-06-08 01:11:23,799 [MainThread  ] [INFO ]  Adding demand for cl:-6
+2019-06-08 01:11:23,843 [MainThread  ] [INFO ]  Adding demand for cs:-6
+2019-06-08 01:11:23,884 [MainThread  ] [INFO ]  Adding demand for t:-5
+2019-06-08 01:11:24,033 [MainThread  ] [INFO ]  Adding demand for cl:-5
+2019-06-08 01:11:24,074 [MainThread  ] [INFO ]  Adding demand for cs:-5
+2019-06-08 01:11:24,120 [MainThread  ] [INFO ]  Adding demand for t:-4
+2019-06-08 01:11:24,277 [MainThread  ] [INFO ]  Adding demand for cl:-4
+2019-06-08 01:11:24,321 [MainThread  ] [INFO ]  Adding demand for cs:-4
+2019-06-08 01:11:24,359 [MainThread  ] [INFO ]  Adding demand for t:-3
+2019-06-08 01:11:24,536 [MainThread  ] [INFO ]  Adding demand for cl:-3
+2019-06-08 01:11:24,575 [MainThread  ] [INFO ]  Adding demand for cs:-3
+2019-06-08 01:11:24,624 [MainThread  ] [INFO ]  Adding demand for t:-2
+2019-06-08 01:11:24,780 [MainThread  ] [INFO ]  Adding demand for cl:-2
+2019-06-08 01:11:24,819 [MainThread  ] [INFO ]  Adding demand for cs:-2
+2019-06-08 01:11:24,868 [MainThread  ] [INFO ]  Adding demand for t:-1
+2019-06-08 01:11:25,036 [MainThread  ] [INFO ]  Adding demand for cl:-1
+2019-06-08 01:11:25,076 [MainThread  ] [INFO ]  Adding demand for cs:-1
+2019-06-08 01:11:25,114 [MainThread  ] [INFO ]  Adding demand for t:0
+2019-06-08 01:11:25,326 [MainThread  ] [INFO ]  Adding demand for cl:0
+2019-06-08 01:11:25,365 [MainThread  ] [INFO ]  Adding demand for cs:0
+2019-06-08 01:11:25,408 [MainThread  ] [INFO ]  Adding statistics
+2019-06-08 01:11:25,409 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: mean
+2019-06-08 01:11:25,450 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: median
+2019-06-08 01:11:25,499 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: max
+2019-06-08 01:11:25,548 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: min
+2019-06-08 01:11:25,589 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: std
+2019-06-08 01:11:25,631 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: mean
+2019-06-08 01:11:27,365 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: median
+2019-06-08 01:11:29,187 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: max
+2019-06-08 01:11:30,901 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: min
+2019-06-08 01:11:32,621 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: std
+2019-06-08 01:11:34,340 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: mean
+2019-06-08 01:11:34,383 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: median
+2019-06-08 01:11:34,432 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: max
+2019-06-08 01:11:34,480 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: min
+2019-06-08 01:11:34,519 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: std
+2019-06-08 01:11:34,558 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: mean
+2019-06-08 01:11:34,601 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: median
+2019-06-08 01:11:34,639 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: max
+2019-06-08 01:11:34,677 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: min
+2019-06-08 01:11:34,716 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: std
+2019-06-08 01:11:34,754 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: mean
+2019-06-08 01:11:35,206 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: median
+2019-06-08 01:11:35,766 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: max
+2019-06-08 01:11:36,228 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: min
+2019-06-08 01:11:36,692 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: std
+2019-06-08 01:11:37,160 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: mean
+2019-06-08 01:11:37,205 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: median
+2019-06-08 01:11:37,246 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: max
+2019-06-08 01:11:37,285 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: min
+2019-06-08 01:11:37,324 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: std
+2019-06-08 01:11:37,364 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: mean
+2019-06-08 01:25:48,607 [MainThread  ] [INFO ]  Loading required files
+2019-06-08 01:25:56,298 [MainThread  ] [INFO ]  Making testset indices
+2019-06-08 01:25:58,929 [MainThread  ] [INFO ]  Length of df = 1301
+2019-06-08 01:25:58,932 [MainThread  ] [INFO ]  Adding demand
+2019-06-08 01:25:58,932 [MainThread  ] [INFO ]  Adding demand for t:-96
+2019-06-08 01:25:59,064 [MainThread  ] [INFO ]  Adding demand for cl:-96
+2019-06-08 01:25:59,084 [MainThread  ] [INFO ]  Adding demand for cs:-96
+2019-06-08 01:25:59,104 [MainThread  ] [INFO ]  Adding demand for t:-95
+2019-06-08 01:25:59,232 [MainThread  ] [INFO ]  Adding demand for cl:-95
+2019-06-08 01:25:59,251 [MainThread  ] [INFO ]  Adding demand for cs:-95
+2019-06-08 01:25:59,272 [MainThread  ] [INFO ]  Adding demand for t:-94
+2019-06-08 01:25:59,396 [MainThread  ] [INFO ]  Adding demand for cl:-94
+2019-06-08 01:25:59,416 [MainThread  ] [INFO ]  Adding demand for cs:-94
+2019-06-08 01:25:59,438 [MainThread  ] [INFO ]  Adding demand for t:-93
+2019-06-08 01:25:59,564 [MainThread  ] [INFO ]  Adding demand for cl:-93
+2019-06-08 01:25:59,585 [MainThread  ] [INFO ]  Adding demand for cs:-93
+2019-06-08 01:25:59,605 [MainThread  ] [INFO ]  Adding demand for t:-92
+2019-06-08 01:25:59,723 [MainThread  ] [INFO ]  Adding demand for cl:-92
+2019-06-08 01:25:59,743 [MainThread  ] [INFO ]  Adding demand for cs:-92
+2019-06-08 01:25:59,764 [MainThread  ] [INFO ]  Adding demand for t:-91
+2019-06-08 01:25:59,879 [MainThread  ] [INFO ]  Adding demand for cl:-91
+2019-06-08 01:25:59,901 [MainThread  ] [INFO ]  Adding demand for cs:-91
+2019-06-08 01:25:59,922 [MainThread  ] [INFO ]  Adding demand for t:-90
+2019-06-08 01:26:00,036 [MainThread  ] [INFO ]  Adding demand for cl:-90
+2019-06-08 01:26:00,058 [MainThread  ] [INFO ]  Adding demand for cs:-90
+2019-06-08 01:26:00,086 [MainThread  ] [INFO ]  Adding demand for t:-89
+2019-06-08 01:26:00,221 [MainThread  ] [INFO ]  Adding demand for cl:-89
+2019-06-08 01:26:00,246 [MainThread  ] [INFO ]  Adding demand for cs:-89
+2019-06-08 01:26:00,272 [MainThread  ] [INFO ]  Adding demand for t:-88
+2019-06-08 01:26:00,377 [MainThread  ] [INFO ]  Adding demand for cl:-88
+2019-06-08 01:26:00,397 [MainThread  ] [INFO ]  Adding demand for cs:-88
+2019-06-08 01:26:00,417 [MainThread  ] [INFO ]  Adding demand for t:-87
+2019-06-08 01:26:00,519 [MainThread  ] [INFO ]  Adding demand for cl:-87
+2019-06-08 01:26:00,539 [MainThread  ] [INFO ]  Adding demand for cs:-87
+2019-06-08 01:26:00,559 [MainThread  ] [INFO ]  Adding demand for t:-86
+2019-06-08 01:26:00,656 [MainThread  ] [INFO ]  Adding demand for cl:-86
+2019-06-08 01:26:00,675 [MainThread  ] [INFO ]  Adding demand for cs:-86
+2019-06-08 01:26:00,695 [MainThread  ] [INFO ]  Adding demand for t:-85
+2019-06-08 01:26:00,793 [MainThread  ] [INFO ]  Adding demand for cl:-85
+2019-06-08 01:26:00,812 [MainThread  ] [INFO ]  Adding demand for cs:-85
+2019-06-08 01:26:00,832 [MainThread  ] [INFO ]  Adding demand for t:-84
+2019-06-08 01:26:00,935 [MainThread  ] [INFO ]  Adding demand for cl:-84
+2019-06-08 01:26:00,956 [MainThread  ] [INFO ]  Adding demand for cs:-84
+2019-06-08 01:26:00,978 [MainThread  ] [INFO ]  Adding demand for t:-83
+2019-06-08 01:26:01,074 [MainThread  ] [INFO ]  Adding demand for cl:-83
+2019-06-08 01:26:01,095 [MainThread  ] [INFO ]  Adding demand for cs:-83
+2019-06-08 01:26:01,115 [MainThread  ] [INFO ]  Adding demand for t:-82
+2019-06-08 01:26:01,210 [MainThread  ] [INFO ]  Adding demand for cl:-82
+2019-06-08 01:26:01,231 [MainThread  ] [INFO ]  Adding demand for cs:-82
+2019-06-08 01:26:01,251 [MainThread  ] [INFO ]  Adding demand for t:-81
+2019-06-08 01:26:01,348 [MainThread  ] [INFO ]  Adding demand for cl:-81
+2019-06-08 01:26:01,369 [MainThread  ] [INFO ]  Adding demand for cs:-81
+2019-06-08 01:26:01,390 [MainThread  ] [INFO ]  Adding demand for t:-80
+2019-06-08 01:26:01,489 [MainThread  ] [INFO ]  Adding demand for cl:-80
+2019-06-08 01:26:01,510 [MainThread  ] [INFO ]  Adding demand for cs:-80
+2019-06-08 01:26:01,531 [MainThread  ] [INFO ]  Adding demand for t:-79
+2019-06-08 01:26:01,629 [MainThread  ] [INFO ]  Adding demand for cl:-79
+2019-06-08 01:26:01,650 [MainThread  ] [INFO ]  Adding demand for cs:-79
+2019-06-08 01:26:01,672 [MainThread  ] [INFO ]  Adding demand for t:-78
+2019-06-08 01:26:01,768 [MainThread  ] [INFO ]  Adding demand for cl:-78
+2019-06-08 01:26:01,790 [MainThread  ] [INFO ]  Adding demand for cs:-78
+2019-06-08 01:26:01,812 [MainThread  ] [INFO ]  Adding demand for t:-77
+2019-06-08 01:26:01,910 [MainThread  ] [INFO ]  Adding demand for cl:-77
+2019-06-08 01:26:01,933 [MainThread  ] [INFO ]  Adding demand for cs:-77
+2019-06-08 01:26:01,955 [MainThread  ] [INFO ]  Adding demand for t:-76
+2019-06-08 01:26:02,055 [MainThread  ] [INFO ]  Adding demand for cl:-76
+2019-06-08 01:26:02,075 [MainThread  ] [INFO ]  Adding demand for cs:-76
+2019-06-08 01:26:02,097 [MainThread  ] [INFO ]  Adding demand for t:-75
+2019-06-08 01:26:02,198 [MainThread  ] [INFO ]  Adding demand for cl:-75
+2019-06-08 01:26:02,218 [MainThread  ] [INFO ]  Adding demand for cs:-75
+2019-06-08 01:26:02,240 [MainThread  ] [INFO ]  Adding demand for t:-74
+2019-06-08 01:26:02,339 [MainThread  ] [INFO ]  Adding demand for cl:-74
+2019-06-08 01:26:02,361 [MainThread  ] [INFO ]  Adding demand for cs:-74
+2019-06-08 01:26:02,384 [MainThread  ] [INFO ]  Adding demand for t:-73
+2019-06-08 01:26:02,486 [MainThread  ] [INFO ]  Adding demand for cl:-73
+2019-06-08 01:26:02,508 [MainThread  ] [INFO ]  Adding demand for cs:-73
+2019-06-08 01:26:02,531 [MainThread  ] [INFO ]  Adding demand for t:-72
+2019-06-08 01:26:02,634 [MainThread  ] [INFO ]  Adding demand for cl:-72
+2019-06-08 01:26:02,656 [MainThread  ] [INFO ]  Adding demand for cs:-72
+2019-06-08 01:26:02,681 [MainThread  ] [INFO ]  Adding demand for t:-71
+2019-06-08 01:26:02,784 [MainThread  ] [INFO ]  Adding demand for cl:-71
+2019-06-08 01:26:02,807 [MainThread  ] [INFO ]  Adding demand for cs:-71
+2019-06-08 01:26:02,828 [MainThread  ] [INFO ]  Adding demand for t:-70
+2019-06-08 01:26:02,934 [MainThread  ] [INFO ]  Adding demand for cl:-70
+2019-06-08 01:26:02,956 [MainThread  ] [INFO ]  Adding demand for cs:-70
+2019-06-08 01:26:02,979 [MainThread  ] [INFO ]  Adding demand for t:-69
+2019-06-08 01:26:03,088 [MainThread  ] [INFO ]  Adding demand for cl:-69
+2019-06-08 01:26:03,111 [MainThread  ] [INFO ]  Adding demand for cs:-69
+2019-06-08 01:26:03,133 [MainThread  ] [INFO ]  Adding demand for t:-68
+2019-06-08 01:26:03,239 [MainThread  ] [INFO ]  Adding demand for cl:-68
+2019-06-08 01:26:03,265 [MainThread  ] [INFO ]  Adding demand for cs:-68
+2019-06-08 01:26:03,287 [MainThread  ] [INFO ]  Adding demand for t:-67
+2019-06-08 01:26:03,400 [MainThread  ] [INFO ]  Adding demand for cl:-67
+2019-06-08 01:26:03,425 [MainThread  ] [INFO ]  Adding demand for cs:-67
+2019-06-08 01:26:03,449 [MainThread  ] [INFO ]  Adding demand for t:-66
+2019-06-08 01:26:03,563 [MainThread  ] [INFO ]  Adding demand for cl:-66
+2019-06-08 01:26:03,587 [MainThread  ] [INFO ]  Adding demand for cs:-66
+2019-06-08 01:26:03,611 [MainThread  ] [INFO ]  Adding demand for t:-65
+2019-06-08 01:26:03,725 [MainThread  ] [INFO ]  Adding demand for cl:-65
+2019-06-08 01:26:03,749 [MainThread  ] [INFO ]  Adding demand for cs:-65
+2019-06-08 01:26:03,774 [MainThread  ] [INFO ]  Adding demand for t:-64
+2019-06-08 01:26:03,889 [MainThread  ] [INFO ]  Adding demand for cl:-64
+2019-06-08 01:26:03,914 [MainThread  ] [INFO ]  Adding demand for cs:-64
+2019-06-08 01:26:03,941 [MainThread  ] [INFO ]  Adding demand for t:-63
+2019-06-08 01:26:04,064 [MainThread  ] [INFO ]  Adding demand for cl:-63
+2019-06-08 01:26:04,089 [MainThread  ] [INFO ]  Adding demand for cs:-63
+2019-06-08 01:26:04,115 [MainThread  ] [INFO ]  Adding demand for t:-62
+2019-06-08 01:26:04,239 [MainThread  ] [INFO ]  Adding demand for cl:-62
+2019-06-08 01:26:04,265 [MainThread  ] [INFO ]  Adding demand for cs:-62
+2019-06-08 01:26:04,290 [MainThread  ] [INFO ]  Adding demand for t:-61
+2019-06-08 01:26:04,413 [MainThread  ] [INFO ]  Adding demand for cl:-61
+2019-06-08 01:26:04,438 [MainThread  ] [INFO ]  Adding demand for cs:-61
+2019-06-08 01:26:04,464 [MainThread  ] [INFO ]  Adding demand for t:-60
+2019-06-08 01:26:04,587 [MainThread  ] [INFO ]  Adding demand for cl:-60
+2019-06-08 01:26:04,613 [MainThread  ] [INFO ]  Adding demand for cs:-60
+2019-06-08 01:26:04,640 [MainThread  ] [INFO ]  Adding demand for t:-59
+2019-06-08 01:26:04,767 [MainThread  ] [INFO ]  Adding demand for cl:-59
+2019-06-08 01:26:04,793 [MainThread  ] [INFO ]  Adding demand for cs:-59
+2019-06-08 01:26:04,819 [MainThread  ] [INFO ]  Adding demand for t:-58
+2019-06-08 01:26:04,947 [MainThread  ] [INFO ]  Adding demand for cl:-58
+2019-06-08 01:26:04,973 [MainThread  ] [INFO ]  Adding demand for cs:-58
+2019-06-08 01:26:04,999 [MainThread  ] [INFO ]  Adding demand for t:-57
+2019-06-08 01:26:05,131 [MainThread  ] [INFO ]  Adding demand for cl:-57
+2019-06-08 01:26:05,157 [MainThread  ] [INFO ]  Adding demand for cs:-57
+2019-06-08 01:26:05,184 [MainThread  ] [INFO ]  Adding demand for t:-56
+2019-06-08 01:26:05,315 [MainThread  ] [INFO ]  Adding demand for cl:-56
+2019-06-08 01:26:05,341 [MainThread  ] [INFO ]  Adding demand for cs:-56
+2019-06-08 01:26:05,367 [MainThread  ] [INFO ]  Adding demand for t:-55
+2019-06-08 01:26:05,499 [MainThread  ] [INFO ]  Adding demand for cl:-55
+2019-06-08 01:26:05,525 [MainThread  ] [INFO ]  Adding demand for cs:-55
+2019-06-08 01:26:05,552 [MainThread  ] [INFO ]  Adding demand for t:-54
+2019-06-08 01:26:05,687 [MainThread  ] [INFO ]  Adding demand for cl:-54
+2019-06-08 01:26:05,715 [MainThread  ] [INFO ]  Adding demand for cs:-54
+2019-06-08 01:26:05,742 [MainThread  ] [INFO ]  Adding demand for t:-53
+2019-06-08 01:26:05,881 [MainThread  ] [INFO ]  Adding demand for cl:-53
+2019-06-08 01:26:05,915 [MainThread  ] [INFO ]  Adding demand for cs:-53
+2019-06-08 01:26:05,943 [MainThread  ] [INFO ]  Adding demand for t:-52
+2019-06-08 01:26:06,090 [MainThread  ] [INFO ]  Adding demand for cl:-52
+2019-06-08 01:26:06,117 [MainThread  ] [INFO ]  Adding demand for cs:-52
+2019-06-08 01:26:06,147 [MainThread  ] [INFO ]  Adding demand for t:-51
+2019-06-08 01:26:06,287 [MainThread  ] [INFO ]  Adding demand for cl:-51
+2019-06-08 01:26:06,315 [MainThread  ] [INFO ]  Adding demand for cs:-51
+2019-06-08 01:26:06,344 [MainThread  ] [INFO ]  Adding demand for t:-50
+2019-06-08 01:26:06,495 [MainThread  ] [INFO ]  Adding demand for cl:-50
+2019-06-08 01:26:06,524 [MainThread  ] [INFO ]  Adding demand for cs:-50
+2019-06-08 01:26:06,555 [MainThread  ] [INFO ]  Adding demand for t:-49
+2019-06-08 01:26:06,706 [MainThread  ] [INFO ]  Adding demand for cl:-49
+2019-06-08 01:26:06,734 [MainThread  ] [INFO ]  Adding demand for cs:-49
+2019-06-08 01:26:06,762 [MainThread  ] [INFO ]  Adding demand for t:-48
+2019-06-08 01:26:06,911 [MainThread  ] [INFO ]  Adding demand for cl:-48
+2019-06-08 01:26:06,940 [MainThread  ] [INFO ]  Adding demand for cs:-48
+2019-06-08 01:26:06,968 [MainThread  ] [INFO ]  Adding demand for t:-47
+2019-06-08 01:26:07,114 [MainThread  ] [INFO ]  Adding demand for cl:-47
+2019-06-08 01:26:07,142 [MainThread  ] [INFO ]  Adding demand for cs:-47
+2019-06-08 01:26:07,171 [MainThread  ] [INFO ]  Adding demand for t:-46
+2019-06-08 01:26:07,320 [MainThread  ] [INFO ]  Adding demand for cl:-46
+2019-06-08 01:26:07,348 [MainThread  ] [INFO ]  Adding demand for cs:-46
+2019-06-08 01:26:07,377 [MainThread  ] [INFO ]  Adding demand for t:-45
+2019-06-08 01:26:07,524 [MainThread  ] [INFO ]  Adding demand for cl:-45
+2019-06-08 01:26:07,553 [MainThread  ] [INFO ]  Adding demand for cs:-45
+2019-06-08 01:26:07,584 [MainThread  ] [INFO ]  Adding demand for t:-44
+2019-06-08 01:26:07,734 [MainThread  ] [INFO ]  Adding demand for cl:-44
+2019-06-08 01:26:07,763 [MainThread  ] [INFO ]  Adding demand for cs:-44
+2019-06-08 01:26:07,792 [MainThread  ] [INFO ]  Adding demand for t:-43
+2019-06-08 01:26:07,944 [MainThread  ] [INFO ]  Adding demand for cl:-43
+2019-06-08 01:26:07,973 [MainThread  ] [INFO ]  Adding demand for cs:-43
+2019-06-08 01:26:08,003 [MainThread  ] [INFO ]  Adding demand for t:-42
+2019-06-08 01:26:08,153 [MainThread  ] [INFO ]  Adding demand for cl:-42
+2019-06-08 01:26:08,184 [MainThread  ] [INFO ]  Adding demand for cs:-42
+2019-06-08 01:26:08,214 [MainThread  ] [INFO ]  Adding demand for t:-41
+2019-06-08 01:26:08,370 [MainThread  ] [INFO ]  Adding demand for cl:-41
+2019-06-08 01:26:08,399 [MainThread  ] [INFO ]  Adding demand for cs:-41
+2019-06-08 01:26:08,432 [MainThread  ] [INFO ]  Adding demand for t:-40
+2019-06-08 01:26:08,589 [MainThread  ] [INFO ]  Adding demand for cl:-40
+2019-06-08 01:26:08,620 [MainThread  ] [INFO ]  Adding demand for cs:-40
+2019-06-08 01:26:08,650 [MainThread  ] [INFO ]  Adding demand for t:-39
+2019-06-08 01:26:08,804 [MainThread  ] [INFO ]  Adding demand for cl:-39
+2019-06-08 01:26:08,834 [MainThread  ] [INFO ]  Adding demand for cs:-39
+2019-06-08 01:26:08,865 [MainThread  ] [INFO ]  Adding demand for t:-38
+2019-06-08 01:26:09,022 [MainThread  ] [INFO ]  Adding demand for cl:-38
+2019-06-08 01:26:09,052 [MainThread  ] [INFO ]  Adding demand for cs:-38
+2019-06-08 01:26:09,082 [MainThread  ] [INFO ]  Adding demand for t:-37
+2019-06-08 01:26:09,236 [MainThread  ] [INFO ]  Adding demand for cl:-37
+2019-06-08 01:26:09,266 [MainThread  ] [INFO ]  Adding demand for cs:-37
+2019-06-08 01:26:09,296 [MainThread  ] [INFO ]  Adding demand for t:-36
+2019-06-08 01:26:09,455 [MainThread  ] [INFO ]  Adding demand for cl:-36
+2019-06-08 01:26:09,486 [MainThread  ] [INFO ]  Adding demand for cs:-36
+2019-06-08 01:26:09,517 [MainThread  ] [INFO ]  Adding demand for t:-35
+2019-06-08 01:26:09,680 [MainThread  ] [INFO ]  Adding demand for cl:-35
+2019-06-08 01:26:09,711 [MainThread  ] [INFO ]  Adding demand for cs:-35
+2019-06-08 01:26:09,742 [MainThread  ] [INFO ]  Adding demand for t:-34
+2019-06-08 01:26:09,905 [MainThread  ] [INFO ]  Adding demand for cl:-34
+2019-06-08 01:26:09,936 [MainThread  ] [INFO ]  Adding demand for cs:-34
+2019-06-08 01:26:09,967 [MainThread  ] [INFO ]  Adding demand for t:-33
+2019-06-08 01:26:10,126 [MainThread  ] [INFO ]  Adding demand for cl:-33
+2019-06-08 01:26:10,158 [MainThread  ] [INFO ]  Adding demand for cs:-33
+2019-06-08 01:26:10,190 [MainThread  ] [INFO ]  Adding demand for t:-32
+2019-06-08 01:26:10,348 [MainThread  ] [INFO ]  Adding demand for cl:-32
+2019-06-08 01:26:10,379 [MainThread  ] [INFO ]  Adding demand for cs:-32
+2019-06-08 01:26:10,411 [MainThread  ] [INFO ]  Adding demand for t:-31
+2019-06-08 01:26:10,571 [MainThread  ] [INFO ]  Adding demand for cl:-31
+2019-06-08 01:26:10,602 [MainThread  ] [INFO ]  Adding demand for cs:-31
+2019-06-08 01:26:10,634 [MainThread  ] [INFO ]  Adding demand for t:-30
+2019-06-08 01:26:10,812 [MainThread  ] [INFO ]  Adding demand for cl:-30
+2019-06-08 01:26:10,853 [MainThread  ] [INFO ]  Adding demand for cs:-30
+2019-06-08 01:26:10,887 [MainThread  ] [INFO ]  Adding demand for t:-29
+2019-06-08 01:26:11,052 [MainThread  ] [INFO ]  Adding demand for cl:-29
+2019-06-08 01:26:11,084 [MainThread  ] [INFO ]  Adding demand for cs:-29
+2019-06-08 01:26:11,118 [MainThread  ] [INFO ]  Adding demand for t:-28
+2019-06-08 01:26:11,290 [MainThread  ] [INFO ]  Adding demand for cl:-28
+2019-06-08 01:26:11,330 [MainThread  ] [INFO ]  Adding demand for cs:-28
+2019-06-08 01:26:11,364 [MainThread  ] [INFO ]  Adding demand for t:-27
+2019-06-08 01:26:11,534 [MainThread  ] [INFO ]  Adding demand for cl:-27
+2019-06-08 01:26:11,566 [MainThread  ] [INFO ]  Adding demand for cs:-27
+2019-06-08 01:26:11,599 [MainThread  ] [INFO ]  Adding demand for t:-26
+2019-06-08 01:26:11,763 [MainThread  ] [INFO ]  Adding demand for cl:-26
+2019-06-08 01:26:11,796 [MainThread  ] [INFO ]  Adding demand for cs:-26
+2019-06-08 01:26:11,836 [MainThread  ] [INFO ]  Adding demand for t:-25
+2019-06-08 01:26:12,004 [MainThread  ] [INFO ]  Adding demand for cl:-25
+2019-06-08 01:26:12,038 [MainThread  ] [INFO ]  Adding demand for cs:-25
+2019-06-08 01:26:12,072 [MainThread  ] [INFO ]  Adding demand for t:-24
+2019-06-08 01:26:12,239 [MainThread  ] [INFO ]  Adding demand for cl:-24
+2019-06-08 01:26:12,284 [MainThread  ] [INFO ]  Adding demand for cs:-24
+2019-06-08 01:26:12,329 [MainThread  ] [INFO ]  Adding demand for t:-23
+2019-06-08 01:26:12,526 [MainThread  ] [INFO ]  Adding demand for cl:-23
+2019-06-08 01:26:12,560 [MainThread  ] [INFO ]  Adding demand for cs:-23
+2019-06-08 01:26:12,603 [MainThread  ] [INFO ]  Adding demand for t:-22
+2019-06-08 01:26:12,778 [MainThread  ] [INFO ]  Adding demand for cl:-22
+2019-06-08 01:26:12,818 [MainThread  ] [INFO ]  Adding demand for cs:-22
+2019-06-08 01:26:12,855 [MainThread  ] [INFO ]  Adding demand for t:-21
+2019-06-08 01:26:13,016 [MainThread  ] [INFO ]  Adding demand for cl:-21
+2019-06-08 01:26:13,050 [MainThread  ] [INFO ]  Adding demand for cs:-21
+2019-06-08 01:26:13,085 [MainThread  ] [INFO ]  Adding demand for t:-20
+2019-06-08 01:26:13,246 [MainThread  ] [INFO ]  Adding demand for cl:-20
+2019-06-08 01:26:13,281 [MainThread  ] [INFO ]  Adding demand for cs:-20
+2019-06-08 01:26:13,319 [MainThread  ] [INFO ]  Adding demand for t:-19
+2019-06-08 01:26:13,485 [MainThread  ] [INFO ]  Adding demand for cl:-19
+2019-06-08 01:26:13,520 [MainThread  ] [INFO ]  Adding demand for cs:-19
+2019-06-08 01:26:13,559 [MainThread  ] [INFO ]  Adding demand for t:-18
+2019-06-08 01:26:13,725 [MainThread  ] [INFO ]  Adding demand for cl:-18
+2019-06-08 01:26:13,760 [MainThread  ] [INFO ]  Adding demand for cs:-18
+2019-06-08 01:26:13,795 [MainThread  ] [INFO ]  Adding demand for t:-17
+2019-06-08 01:26:13,959 [MainThread  ] [INFO ]  Adding demand for cl:-17
+2019-06-08 01:26:14,004 [MainThread  ] [INFO ]  Adding demand for cs:-17
+2019-06-08 01:26:14,049 [MainThread  ] [INFO ]  Adding demand for t:-16
+2019-06-08 01:26:14,228 [MainThread  ] [INFO ]  Adding demand for cl:-16
+2019-06-08 01:26:14,273 [MainThread  ] [INFO ]  Adding demand for cs:-16
+2019-06-08 01:26:14,311 [MainThread  ] [INFO ]  Adding demand for t:-15
+2019-06-08 01:26:14,480 [MainThread  ] [INFO ]  Adding demand for cl:-15
+2019-06-08 01:26:14,525 [MainThread  ] [INFO ]  Adding demand for cs:-15
+2019-06-08 01:26:14,573 [MainThread  ] [INFO ]  Adding demand for t:-14
+2019-06-08 01:26:14,729 [MainThread  ] [INFO ]  Adding demand for cl:-14
+2019-06-08 01:26:14,767 [MainThread  ] [INFO ]  Adding demand for cs:-14
+2019-06-08 01:26:14,807 [MainThread  ] [INFO ]  Adding demand for t:-13
+2019-06-08 01:26:14,971 [MainThread  ] [INFO ]  Adding demand for cl:-13
+2019-06-08 01:26:15,007 [MainThread  ] [INFO ]  Adding demand for cs:-13
+2019-06-08 01:26:15,047 [MainThread  ] [INFO ]  Adding demand for t:-12
+2019-06-08 01:26:15,205 [MainThread  ] [INFO ]  Adding demand for cl:-12
+2019-06-08 01:26:15,247 [MainThread  ] [INFO ]  Adding demand for cs:-12
+2019-06-08 01:26:15,282 [MainThread  ] [INFO ]  Adding demand for t:-11
+2019-06-08 01:26:15,445 [MainThread  ] [INFO ]  Adding demand for cl:-11
+2019-06-08 01:26:15,486 [MainThread  ] [INFO ]  Adding demand for cs:-11
+2019-06-08 01:26:15,523 [MainThread  ] [INFO ]  Adding demand for t:-10
+2019-06-08 01:26:15,688 [MainThread  ] [INFO ]  Adding demand for cl:-10
+2019-06-08 01:26:15,730 [MainThread  ] [INFO ]  Adding demand for cs:-10
+2019-06-08 01:26:15,777 [MainThread  ] [INFO ]  Adding demand for t:-9
+2019-06-08 01:26:15,957 [MainThread  ] [INFO ]  Adding demand for cl:-9
+2019-06-08 01:26:15,997 [MainThread  ] [INFO ]  Adding demand for cs:-9
+2019-06-08 01:26:16,035 [MainThread  ] [INFO ]  Adding demand for t:-8
+2019-06-08 01:26:16,189 [MainThread  ] [INFO ]  Adding demand for cl:-8
+2019-06-08 01:26:16,226 [MainThread  ] [INFO ]  Adding demand for cs:-8
+2019-06-08 01:26:16,267 [MainThread  ] [INFO ]  Adding demand for t:-7
+2019-06-08 01:26:16,423 [MainThread  ] [INFO ]  Adding demand for cl:-7
+2019-06-08 01:26:16,467 [MainThread  ] [INFO ]  Adding demand for cs:-7
+2019-06-08 01:26:16,510 [MainThread  ] [INFO ]  Adding demand for t:-6
+2019-06-08 01:26:16,680 [MainThread  ] [INFO ]  Adding demand for cl:-6
+2019-06-08 01:26:16,727 [MainThread  ] [INFO ]  Adding demand for cs:-6
+2019-06-08 01:26:16,775 [MainThread  ] [INFO ]  Adding demand for t:-5
+2019-06-08 01:26:16,929 [MainThread  ] [INFO ]  Adding demand for cl:-5
+2019-06-08 01:26:16,969 [MainThread  ] [INFO ]  Adding demand for cs:-5
+2019-06-08 01:26:17,009 [MainThread  ] [INFO ]  Adding demand for t:-4
+2019-06-08 01:26:17,181 [MainThread  ] [INFO ]  Adding demand for cl:-4
+2019-06-08 01:26:17,223 [MainThread  ] [INFO ]  Adding demand for cs:-4
+2019-06-08 01:26:17,263 [MainThread  ] [INFO ]  Adding demand for t:-3
+2019-06-08 01:26:17,418 [MainThread  ] [INFO ]  Adding demand for cl:-3
+2019-06-08 01:26:17,458 [MainThread  ] [INFO ]  Adding demand for cs:-3
+2019-06-08 01:26:17,496 [MainThread  ] [INFO ]  Adding demand for t:-2
+2019-06-08 01:26:17,665 [MainThread  ] [INFO ]  Adding demand for cl:-2
+2019-06-08 01:26:17,706 [MainThread  ] [INFO ]  Adding demand for cs:-2
+2019-06-08 01:26:17,745 [MainThread  ] [INFO ]  Adding demand for t:-1
+2019-06-08 01:26:17,905 [MainThread  ] [INFO ]  Adding demand for cl:-1
+2019-06-08 01:26:17,949 [MainThread  ] [INFO ]  Adding demand for cs:-1
+2019-06-08 01:26:17,991 [MainThread  ] [INFO ]  Adding demand for t:0
+2019-06-08 01:26:18,219 [MainThread  ] [INFO ]  Adding demand for cl:0
+2019-06-08 01:26:18,258 [MainThread  ] [INFO ]  Adding demand for cs:0
+2019-06-08 01:26:18,303 [MainThread  ] [INFO ]  Adding statistics
+2019-06-08 01:26:18,303 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: mean
+2019-06-08 01:26:18,344 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: median
+2019-06-08 01:26:18,385 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: max
+2019-06-08 01:26:18,436 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: min
+2019-06-08 01:26:18,485 [MainThread  ] [INFO ]  Doing loc: geohash6 period: timestamp agg: std
+2019-06-08 01:26:18,530 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: mean
+2019-06-08 01:26:20,280 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: median
+2019-06-08 01:26:22,103 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: max
+2019-06-08 01:26:23,838 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: min
+2019-06-08 01:26:25,570 [MainThread  ] [INFO ]  Doing loc: geohash6 period: day agg: std
+2019-06-08 01:26:27,307 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: mean
+2019-06-08 01:26:27,348 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: median
+2019-06-08 01:26:27,388 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: max
+2019-06-08 01:26:27,426 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: min
+2019-06-08 01:26:27,464 [MainThread  ] [INFO ]  Doing loc: geohash6 period: hr agg: std
+2019-06-08 01:26:27,502 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: mean
+2019-06-08 01:26:27,542 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: median
+2019-06-08 01:26:27,591 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: max
+2019-06-08 01:26:27,633 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: min
+2019-06-08 01:26:27,681 [MainThread  ] [INFO ]  Doing loc: cluster_l period: timestamp agg: std
+2019-06-08 01:26:27,725 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: mean
+2019-06-08 01:26:28,171 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: median
+2019-06-08 01:26:28,729 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: max
+2019-06-08 01:26:29,203 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: min
+2019-06-08 01:26:29,666 [MainThread  ] [INFO ]  Doing loc: cluster_l period: day agg: std
+2019-06-08 01:26:30,139 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: mean
+2019-06-08 01:26:30,184 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: median
+2019-06-08 01:26:30,233 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: max
+2019-06-08 01:26:30,283 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: min
+2019-06-08 01:26:30,331 [MainThread  ] [INFO ]  Doing loc: cluster_l period: hr agg: std
+2019-06-08 01:26:30,380 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: mean
+2019-06-08 01:26:30,420 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: median
+2019-06-08 01:26:30,467 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: max
+2019-06-08 01:26:30,511 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: min
+2019-06-08 01:26:30,552 [MainThread  ] [INFO ]  Doing loc: cluster_s period: timestamp agg: std
+2019-06-08 01:26:30,597 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: mean
+2019-06-08 01:26:31,146 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: median
+2019-06-08 01:26:31,801 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: max
+2019-06-08 01:26:32,353 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: min
+2019-06-08 01:26:32,893 [MainThread  ] [INFO ]  Doing loc: cluster_s period: day agg: std
+2019-06-08 01:26:33,487 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: mean
+2019-06-08 01:26:33,537 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: median
+2019-06-08 01:26:33,581 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: max
+2019-06-08 01:26:33,624 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: min
+2019-06-08 01:26:33,665 [MainThread  ] [INFO ]  Doing loc: cluster_s period: hr agg: std
+2019-06-08 01:26:33,710 [MainThread  ] [INFO ]  Generating holt
