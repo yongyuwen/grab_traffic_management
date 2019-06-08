@@ -34,7 +34,10 @@ Run the prediction using the following command:
 
 `python test.py <testset filename>`
 
+The script will product 2 outputs in the root folder: `preds.csv` and `output.csv`. `preds.csv` contains the final predictions for each geohash, while `output.csv` will contain the final predictions as well as engineered features and each individual model's prediction.
+
 Note: There is a strict mode that can be used with the `strict` flag, ie. `python test.py <testset filename> strict`. Without using strict, the model will automatically filter out geohashes with less than 6 occurrences in the dataset, and perform predictions with the remaining geohashes. If you use the strict flag, the script will raise a RuntimeError, informing you of the presence of these failed geohashes.
+
 
 
 
