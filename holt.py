@@ -112,8 +112,6 @@ def process_grp_df(df):
     # Set index to dt
     df['dt'] = df['time'].apply(lambda x: time_to_dt(x))
     df = df.set_index('dt')
-#     print(df.index.is_unique)
-#     print(df.head(20))
     df = df.sort_values('time')
     df = df.asfreq('15T')
     
@@ -130,11 +128,8 @@ def process_grp_df(df):
                     memo[f'{hh}:{mm}'] = candidate
                 else:
                     memo[f'{hh}:{mm}'] = grp_mean
-            #print(f"memo mean = {memo[f'{hh}:{mm}']}")
             df.set_value(n, 'demand', memo[f'{hh}:{mm}'])
         except:
-            #print(e)
-            # Fill missing value with the average for that grp
             df.set_value(n, 'demand', grp_mean)
     return df
         
@@ -146,7 +141,6 @@ def holt_sample(df, holt_params, grp, indices, type_, processed, failed_holt, pa
         tasks = (delayed(pred_holt)(df, holt_params, grp, idx, type_, processed, failed_holt, test=test) for idx in indices)
         res = executor(tasks)
     else: 
-        #print(indices)
         res = [pred_holt(df, holt_params, grp, idx, type_, processed, failed_holt, test=test) for idx in indices]
     return res
 
